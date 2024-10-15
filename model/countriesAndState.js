@@ -101,7 +101,7 @@ const CountriesState = [
       },
       {
         id: 3900,
-        name: 'Kunduz Province',
+        name: 'Kunduz',
         state_code: 'KDZ',
       },
       {
@@ -440,42 +440,42 @@ const CountriesState = [
     states: [
       {
         id: 1118,
-        name: 'Adrar Province',
+        name: 'Adrar',
         state_code: '01',
       },
       {
         id: 1119,
-        name: 'Aïn Defla Province',
+        name: 'Aïn Defla',
         state_code: '44',
       },
       {
         id: 1122,
-        name: 'Aïn Témouchent Province',
+        name: 'Aïn Témouchent',
         state_code: '46',
       },
       {
         id: 1144,
-        name: 'Algiers Province',
+        name: 'Algiers',
         state_code: '16',
       },
       {
         id: 1103,
-        name: 'Annaba Province',
+        name: 'Annaba',
         state_code: '23',
       },
       {
         id: 1142,
-        name: 'Batna Province',
+        name: 'Batna',
         state_code: '05',
       },
       {
         id: 1108,
-        name: 'Béchar Province',
+        name: 'Béchar',
         state_code: '08',
       },
       {
         id: 1128,
-        name: 'Béjaïa Province',
+        name: 'Béjaïa',
         state_code: '06',
       },
       {
@@ -485,192 +485,192 @@ const CountriesState = [
       },
       {
         id: 1111,
-        name: 'Blida Province',
+        name: 'Blida',
         state_code: '09',
       },
       {
         id: 1116,
-        name: 'Bordj Bou Arréridj Province',
+        name: 'Bordj Bou Arréridj',
         state_code: '34',
       },
       {
         id: 1104,
-        name: 'Bouïra Province',
+        name: 'Bouïra',
         state_code: '10',
       },
       {
         id: 1125,
-        name: 'Boumerdès Province',
+        name: 'Boumerdès',
         state_code: '35',
       },
       {
         id: 1105,
-        name: 'Chlef Province',
+        name: 'Chlef',
         state_code: '02',
       },
       {
         id: 1121,
-        name: 'Constantine Province',
+        name: 'Constantine',
         state_code: '25',
       },
       {
         id: 1098,
-        name: 'Djelfa Province',
+        name: 'Djelfa',
         state_code: '17',
       },
       {
         id: 1129,
-        name: 'El Bayadh Province',
+        name: 'El Bayadh',
         state_code: '32',
       },
       {
         id: 1099,
-        name: 'El Oued Province',
+        name: 'El Oued',
         state_code: '39',
       },
       {
         id: 1100,
-        name: 'El Tarf Province',
+        name: 'El Tarf',
         state_code: '36',
       },
       {
         id: 1127,
-        name: 'Ghardaïa Province',
+        name: 'Ghardaïa',
         state_code: '47',
       },
       {
         id: 1137,
-        name: 'Guelma Province',
+        name: 'Guelma',
         state_code: '24',
       },
       {
         id: 1112,
-        name: 'Illizi Province',
+        name: 'Illizi',
         state_code: '33',
       },
       {
         id: 1113,
-        name: 'Jijel Province',
+        name: 'Jijel',
         state_code: '18',
       },
       {
         id: 1126,
-        name: 'Khenchela Province',
+        name: 'Khenchela',
         state_code: '40',
       },
       {
         id: 1138,
-        name: 'Laghouat Province',
+        name: 'Laghouat',
         state_code: '03',
       },
       {
         id: 1134,
-        name: 'M\'Sila Province',
+        name: 'M\'Sila',
         state_code: '28',
       },
       {
         id: 1124,
-        name: 'Mascara Province',
+        name: 'Mascara',
         state_code: '29',
       },
       {
         id: 1109,
-        name: 'Médéa Province',
+        name: 'Médéa',
         state_code: '26',
       },
       {
         id: 1132,
-        name: 'Mila Province',
+        name: 'Mila',
         state_code: '43',
       },
       {
         id: 1140,
-        name: 'Mostaganem Province',
+        name: 'Mostaganem',
         state_code: '27',
       },
       {
         id: 1102,
-        name: 'Naama Province',
+        name: 'Naama',
         state_code: '45',
       },
       {
         id: 1101,
-        name: 'Oran Province',
+        name: 'Oran',
         state_code: '31',
       },
       {
         id: 1139,
-        name: 'Ouargla Province',
+        name: 'Ouargla',
         state_code: '30',
       },
       {
         id: 1136,
-        name: 'Oum El Bouaghi Province',
+        name: 'Oum El Bouaghi',
         state_code: '04',
       },
       {
         id: 1130,
-        name: 'Relizane Province',
+        name: 'Relizane',
         state_code: '48',
       },
       {
         id: 1123,
-        name: 'Saïda Province',
+        name: 'Saïda',
         state_code: '20',
       },
       {
         id: 1141,
-        name: 'Sétif Province',
+        name: 'Sétif',
         state_code: '19',
       },
       {
         id: 1110,
-        name: 'Skikda Province',
+        name: 'Skikda',
         state_code: '21',
       },
       {
         id: 1143,
-        name: 'Souk Ahras Province',
+        name: 'Souk Ahras',
         state_code: '41',
       },
       {
         id: 1135,
-        name: 'Tamanghasset Province',
+        name: 'Tamanghasset',
         state_code: '11',
       },
       {
         id: 1117,
-        name: 'Tébessa Province',
+        name: 'Tébessa',
         state_code: '12',
       },
       {
         id: 1106,
-        name: 'Tiaret Province',
+        name: 'Tiaret',
         state_code: '14',
       },
       {
         id: 1120,
-        name: 'Tindouf Province',
+        name: 'Tindouf',
         state_code: '37',
       },
       {
         id: 1115,
-        name: 'Tipasa Province',
+        name: 'Tipasa',
         state_code: '42',
       },
       {
         id: 1133,
-        name: 'Tissemsilt Province',
+        name: 'Tissemsilt',
         state_code: '38',
       },
       {
         id: 1131,
-        name: 'Tizi Ouzou Province',
+        name: 'Tizi Ouzou',
         state_code: '15',
       },
       {
         id: 1107,
-        name: 'Tlemcen Province',
+        name: 'Tlemcen',
         state_code: '13',
       },
     ],
@@ -739,32 +739,32 @@ const CountriesState = [
     states: [
       {
         id: 221,
-        name: 'Bengo Province',
+        name: 'Bengo',
         state_code: 'BGO',
       },
       {
         id: 218,
-        name: 'Benguela Province',
+        name: 'Benguela',
         state_code: 'BGU',
       },
       {
         id: 212,
-        name: 'Bié Province',
+        name: 'Bié',
         state_code: 'BIE',
       },
       {
         id: 228,
-        name: 'Cabinda Province',
+        name: 'Cabinda',
         state_code: 'CAB',
       },
       {
         id: 226,
-        name: 'Cuando Cubango Province',
+        name: 'Cuando Cubango',
         state_code: 'CCU',
       },
       {
         id: 217,
-        name: 'Cuanza Norte Province',
+        name: 'Cuanza Norte',
         state_code: 'CNO',
       },
       {
@@ -774,52 +774,52 @@ const CountriesState = [
       },
       {
         id: 215,
-        name: 'Cunene Province',
+        name: 'Cunene',
         state_code: 'CNN',
       },
       {
         id: 213,
-        name: 'Huambo Province',
+        name: 'Huambo',
         state_code: 'HUA',
       },
       {
         id: 225,
-        name: 'Huíla Province',
+        name: 'Huíla',
         state_code: 'HUI',
       },
       {
         id: 222,
-        name: 'Luanda Province',
+        name: 'Luanda',
         state_code: 'LUA',
       },
       {
         id: 223,
-        name: 'Lunda Norte Province',
+        name: 'Lunda Norte',
         state_code: 'LNO',
       },
       {
         id: 220,
-        name: 'Lunda Sul Province',
+        name: 'Lunda Sul',
         state_code: 'LSU',
       },
       {
         id: 227,
-        name: 'Malanje Province',
+        name: 'Malanje',
         state_code: 'MAL',
       },
       {
         id: 219,
-        name: 'Moxico Province',
+        name: 'Moxico',
         state_code: 'MOX',
       },
       {
         id: 224,
-        name: 'Uíge Province',
+        name: 'Uíge',
         state_code: 'UIG',
       },
       {
         id: 214,
-        name: 'Zaire Province',
+        name: 'Zaire',
         state_code: 'ZAI',
       },
     ],
@@ -907,27 +907,27 @@ const CountriesState = [
       },
       {
         id: 3656,
-        name: 'Buenos Aires Province',
+        name: 'Buenos Aires',
         state_code: 'B',
       },
       {
         id: 3647,
-        name: 'Catamarca Province',
+        name: 'Catamarca',
         state_code: 'K',
       },
       {
         id: 3640,
-        name: 'Chaco Province',
+        name: 'Chaco',
         state_code: 'H',
       },
       {
         id: 3651,
-        name: 'Chubut Province',
+        name: 'Chubut',
         state_code: 'U',
       },
       {
         id: 3642,
-        name: 'Córdoba Province',
+        name: 'Córdoba',
         state_code: 'X',
       },
       {
@@ -937,17 +937,17 @@ const CountriesState = [
       },
       {
         id: 3654,
-        name: 'Entre Ríos Province',
+        name: 'Entre Ríos',
         state_code: 'E',
       },
       {
         id: 3652,
-        name: 'Formosa Province',
+        name: 'Formosa',
         state_code: 'P',
       },
       {
         id: 3645,
-        name: 'Jujuy Province',
+        name: 'Jujuy',
         state_code: 'Y',
       },
       {
@@ -957,7 +957,7 @@ const CountriesState = [
       },
       {
         id: 3653,
-        name: 'La Rioja Province',
+        name: 'La Rioja',
         state_code: 'F',
       },
       {
@@ -967,57 +967,57 @@ const CountriesState = [
       },
       {
         id: 3644,
-        name: 'Misiones Province',
+        name: 'Misiones',
         state_code: 'N',
       },
       {
         id: 3648,
-        name: 'Neuquén Province',
+        name: 'Neuquén',
         state_code: 'Q',
       },
       {
         id: 3639,
-        name: 'Río Negro Province',
+        name: 'Río Negro',
         state_code: 'R',
       },
       {
         id: 3643,
-        name: 'Salta Province',
+        name: 'Salta',
         state_code: 'A',
       },
       {
         id: 3634,
-        name: 'San Juan Province',
+        name: 'San Juan',
         state_code: 'J',
       },
       {
         id: 3636,
-        name: 'San Luis Province',
+        name: 'San Luis',
         state_code: 'D',
       },
       {
         id: 3649,
-        name: 'Santa Cruz Province',
+        name: 'Santa Cruz',
         state_code: 'Z',
       },
       {
         id: 3641,
-        name: 'Santa Fe Province',
+        name: 'Santa Fe',
         state_code: 'S',
       },
       {
         id: 3635,
-        name: 'Santiago del Estero Province',
+        name: 'Santiago del Estero',
         state_code: 'G',
       },
       {
         id: 3650,
-        name: 'Tierra del Fuego Province',
+        name: 'Tierra del Fuego',
         state_code: 'V',
       },
       {
         id: 3637,
-        name: 'Tucumán Province',
+        name: 'Tucumán',
         state_code: 'T',
       },
     ],
@@ -1037,7 +1037,7 @@ const CountriesState = [
       },
       {
         id: 2024,
-        name: 'Ararat Province',
+        name: 'Ararat',
         state_code: 'AR',
       },
       {
@@ -1047,7 +1047,7 @@ const CountriesState = [
       },
       {
         id: 2028,
-        name: 'Gegharkunik Province',
+        name: 'Gegharkunik',
         state_code: 'GR',
       },
       {
@@ -1067,7 +1067,7 @@ const CountriesState = [
       },
       {
         id: 2027,
-        name: 'Syunik Province',
+        name: 'Syunik',
         state_code: 'SU',
       },
       {
@@ -3054,137 +3054,137 @@ const CountriesState = [
     states: [
       {
         id: 4699,
-        name: 'Blagoevgrad Province',
+        name: 'Blagoevgrad',
         state_code: '01',
       },
       {
         id: 4715,
-        name: 'Burgas Province',
+        name: 'Burgas',
         state_code: '02',
       },
       {
         id: 4718,
-        name: 'Dobrich Province',
+        name: 'Dobrich',
         state_code: '08',
       },
       {
         id: 4693,
-        name: 'Gabrovo Province',
+        name: 'Gabrovo',
         state_code: '07',
       },
       {
         id: 4704,
-        name: 'Haskovo Province',
+        name: 'Haskovo',
         state_code: '26',
       },
       {
         id: 4702,
-        name: 'Kardzhali Province',
+        name: 'Kardzhali',
         state_code: '09',
       },
       {
         id: 4703,
-        name: 'Kyustendil Province',
+        name: 'Kyustendil',
         state_code: '10',
       },
       {
         id: 4710,
-        name: 'Lovech Province',
+        name: 'Lovech',
         state_code: '11',
       },
       {
         id: 4696,
-        name: 'Montana Province',
+        name: 'Montana',
         state_code: '12',
       },
       {
         id: 4712,
-        name: 'Pazardzhik Province',
+        name: 'Pazardzhik',
         state_code: '13',
       },
       {
         id: 4695,
-        name: 'Pernik Province',
+        name: 'Pernik',
         state_code: '14',
       },
       {
         id: 4706,
-        name: 'Pleven Province',
+        name: 'Pleven',
         state_code: '15',
       },
       {
         id: 4701,
-        name: 'Plovdiv Province',
+        name: 'Plovdiv',
         state_code: '16',
       },
       {
         id: 4698,
-        name: 'Razgrad Province',
+        name: 'Razgrad',
         state_code: '17',
       },
       {
         id: 4713,
-        name: 'Ruse Province',
+        name: 'Ruse',
         state_code: '18',
       },
       {
         id: 4708,
-        name: 'Silistra Province',
+        name: 'Silistra',
         state_code: '19',
       },
       {
         id: 4700,
-        name: 'Sliven Province',
+        name: 'Sliven',
         state_code: '20',
       },
       {
         id: 4694,
-        name: 'Smolyan Province',
+        name: 'Smolyan',
         state_code: '21',
       },
       {
         id: 4705,
-        name: 'Sofia City Province',
+        name: 'Sofia City',
         state_code: '22',
       },
       {
         id: 4719,
-        name: 'Sofia Province',
+        name: 'Sofia',
         state_code: '23',
       },
       {
         id: 4707,
-        name: 'Stara Zagora Province',
+        name: 'Stara Zagora',
         state_code: '24',
       },
       {
         id: 4714,
-        name: 'Targovishte Province',
+        name: 'Targovishte',
         state_code: '25',
       },
       {
         id: 4717,
-        name: 'Varna Province',
+        name: 'Varna',
         state_code: '03',
       },
       {
         id: 4709,
-        name: 'Veliko Tarnovo Province',
+        name: 'Veliko Tarnovo',
         state_code: '04',
       },
       {
         id: 4697,
-        name: 'Vidin Province',
+        name: 'Vidin',
         state_code: '05',
       },
       {
         id: 4711,
-        name: 'Vratsa Province',
+        name: 'Vratsa',
         state_code: '06',
       },
       {
         id: 4716,
-        name: 'Yambol Province',
+        name: 'Yambol',
         state_code: '28',
       },
     ],
@@ -3199,22 +3199,22 @@ const CountriesState = [
     states: [
       {
         id: 3160,
-        name: 'Balé Province',
+        name: 'Balé',
         state_code: 'BAL',
       },
       {
         id: 3155,
-        name: 'Bam Province',
+        name: 'Bam',
         state_code: 'BAM',
       },
       {
         id: 3120,
-        name: 'Banwa Province',
+        name: 'Banwa',
         state_code: 'BAN',
       },
       {
         id: 3152,
-        name: 'Bazèga Province',
+        name: 'Bazèga',
         state_code: 'BAZ',
       },
       {
@@ -3224,7 +3224,7 @@ const CountriesState = [
       },
       {
         id: 3121,
-        name: 'Bougouriba Province',
+        name: 'Bougouriba',
         state_code: 'BGR',
       },
       {
@@ -3264,7 +3264,7 @@ const CountriesState = [
       },
       {
         id: 3167,
-        name: 'Comoé Province',
+        name: 'Comoé',
         state_code: 'COM',
       },
       {
@@ -3274,17 +3274,17 @@ const CountriesState = [
       },
       {
         id: 3148,
-        name: 'Ganzourgou Province',
+        name: 'Ganzourgou',
         state_code: 'GAN',
       },
       {
         id: 3122,
-        name: 'Gnagna Province',
+        name: 'Gnagna',
         state_code: 'GNA',
       },
       {
         id: 3143,
-        name: 'Gourma Province',
+        name: 'Gourma',
         state_code: 'GOU',
       },
       {
@@ -3294,62 +3294,62 @@ const CountriesState = [
       },
       {
         id: 3129,
-        name: 'Houet Province',
+        name: 'Houet',
         state_code: 'HOU',
       },
       {
         id: 3135,
-        name: 'Ioba Province',
+        name: 'Ioba',
         state_code: 'IOB',
       },
       {
         id: 3168,
-        name: 'Kadiogo Province',
+        name: 'Kadiogo',
         state_code: 'KAD',
       },
       {
         id: 3112,
-        name: 'Kénédougou Province',
+        name: 'Kénédougou',
         state_code: 'KEN',
       },
       {
         id: 3132,
-        name: 'Komondjari Province',
+        name: 'Komondjari',
         state_code: 'KMD',
       },
       {
         id: 3157,
-        name: 'Kompienga Province',
+        name: 'Kompienga',
         state_code: 'KMP',
       },
       {
         id: 3146,
-        name: 'Kossi Province',
+        name: 'Kossi',
         state_code: 'KOS',
       },
       {
         id: 3133,
-        name: 'Koulpélogo Province',
+        name: 'Koulpélogo',
         state_code: 'KOP',
       },
       {
         id: 3161,
-        name: 'Kouritenga Province',
+        name: 'Kouritenga',
         state_code: 'KOT',
       },
       {
         id: 3147,
-        name: 'Kourwéogo Province',
+        name: 'Kourwéogo',
         state_code: 'KOW',
       },
       {
         id: 3159,
-        name: 'Léraba Province',
+        name: 'Léraba',
         state_code: 'LER',
       },
       {
         id: 3151,
-        name: 'Loroum Province',
+        name: 'Loroum',
         state_code: 'LOR',
       },
       {
@@ -3359,17 +3359,17 @@ const CountriesState = [
       },
       {
         id: 3116,
-        name: 'Nahouri Province',
+        name: 'Nahouri',
         state_code: 'NAO',
       },
       {
         id: 3113,
-        name: 'Namentenga Province',
+        name: 'Namentenga',
         state_code: 'NAM',
       },
       {
         id: 3142,
-        name: 'Nayala Province',
+        name: 'Nayala',
         state_code: 'NAY',
       },
       {
@@ -3379,22 +3379,22 @@ const CountriesState = [
       },
       {
         id: 3156,
-        name: 'Noumbiel Province',
+        name: 'Noumbiel',
         state_code: 'NOU',
       },
       {
         id: 3141,
-        name: 'Oubritenga Province',
+        name: 'Oubritenga',
         state_code: 'OUB',
       },
       {
         id: 3144,
-        name: 'Oudalan Province',
+        name: 'Oudalan',
         state_code: 'OUD',
       },
       {
         id: 3117,
-        name: 'Passoré Province',
+        name: 'Passoré',
         state_code: 'PAS',
       },
       {
@@ -3404,7 +3404,7 @@ const CountriesState = [
       },
       {
         id: 3163,
-        name: 'Poni Province',
+        name: 'Poni',
         state_code: 'PON',
       },
       {
@@ -3414,32 +3414,32 @@ const CountriesState = [
       },
       {
         id: 3154,
-        name: 'Sanguié Province',
+        name: 'Sanguié',
         state_code: 'SNG',
       },
       {
         id: 3126,
-        name: 'Sanmatenga Province',
+        name: 'Sanmatenga',
         state_code: 'SMT',
       },
       {
         id: 3139,
-        name: 'Séno Province',
+        name: 'Séno',
         state_code: 'SEN',
       },
       {
         id: 3119,
-        name: 'Sissili Province',
+        name: 'Sissili',
         state_code: 'SIS',
       },
       {
         id: 3166,
-        name: 'Soum Province',
+        name: 'Soum',
         state_code: 'SOM',
       },
       {
         id: 3137,
-        name: 'Sourou Province',
+        name: 'Sourou',
         state_code: 'SOR',
       },
       {
@@ -3449,37 +3449,37 @@ const CountriesState = [
       },
       {
         id: 3128,
-        name: 'Tapoa Province',
+        name: 'Tapoa',
         state_code: 'TAP',
       },
       {
         id: 3134,
-        name: 'Tuy Province',
+        name: 'Tuy',
         state_code: 'TUI',
       },
       {
         id: 3124,
-        name: 'Yagha Province',
+        name: 'Yagha',
         state_code: 'YAG',
       },
       {
         id: 3150,
-        name: 'Yatenga Province',
+        name: 'Yatenga',
         state_code: 'YAT',
       },
       {
         id: 3145,
-        name: 'Ziro Province',
+        name: 'Ziro',
         state_code: 'ZIR',
       },
       {
         id: 3130,
-        name: 'Zondoma Province',
+        name: 'Zondoma',
         state_code: 'ZON',
       },
       {
         id: 3118,
-        name: 'Zoundwéogo Province',
+        name: 'Zoundwéogo',
         state_code: 'ZOU',
       },
     ],
@@ -3494,92 +3494,92 @@ const CountriesState = [
     states: [
       {
         id: 3196,
-        name: 'Bubanza Province',
+        name: 'Bubanza',
         state_code: 'BB',
       },
       {
         id: 3198,
-        name: 'Bujumbura Mairie Province',
+        name: 'Bujumbura Mairie',
         state_code: 'BM',
       },
       {
         id: 3200,
-        name: 'Bujumbura Rural Province',
+        name: 'Bujumbura Rural',
         state_code: 'BL',
       },
       {
         id: 3202,
-        name: 'Bururi Province',
+        name: 'Bururi',
         state_code: 'BR',
       },
       {
         id: 3201,
-        name: 'Cankuzo Province',
+        name: 'Cankuzo',
         state_code: 'CA',
       },
       {
         id: 3190,
-        name: 'Cibitoke Province',
+        name: 'Cibitoke',
         state_code: 'CI',
       },
       {
         id: 3197,
-        name: 'Gitega Province',
+        name: 'Gitega',
         state_code: 'GI',
       },
       {
         id: 3194,
-        name: 'Karuzi Province',
+        name: 'Karuzi',
         state_code: 'KR',
       },
       {
         id: 3192,
-        name: 'Kayanza Province',
+        name: 'Kayanza',
         state_code: 'KY',
       },
       {
         id: 3195,
-        name: 'Kirundo Province',
+        name: 'Kirundo',
         state_code: 'KI',
       },
       {
         id: 3188,
-        name: 'Makamba Province',
+        name: 'Makamba',
         state_code: 'MA',
       },
       {
         id: 3193,
-        name: 'Muramvya Province',
+        name: 'Muramvya',
         state_code: 'MU',
       },
       {
         id: 3186,
-        name: 'Muyinga Province',
+        name: 'Muyinga',
         state_code: 'MY',
       },
       {
         id: 3187,
-        name: 'Mwaro Province',
+        name: 'Mwaro',
         state_code: 'MW',
       },
       {
         id: 3199,
-        name: 'Ngozi Province',
+        name: 'Ngozi',
         state_code: 'NG',
       },
       {
         id: 3185,
-        name: 'Rumonge Province',
+        name: 'Rumonge',
         state_code: 'RM',
       },
       {
         id: 3189,
-        name: 'Rutana Province',
+        name: 'Rutana',
         state_code: 'RT',
       },
       {
         id: 3191,
-        name: 'Ruyigi Province',
+        name: 'Ruyigi',
         state_code: 'RY',
       },
     ],
@@ -3594,67 +3594,67 @@ const CountriesState = [
     states: [
       {
         id: 3984,
-        name: 'Banteay Meanchey Province',
+        name: 'Banteay Meanchey',
         state_code: '1',
       },
       {
         id: 3976,
-        name: 'Battambang Province',
+        name: 'Battambang',
         state_code: '2',
       },
       {
         id: 3991,
-        name: 'Kampong Cham Province',
+        name: 'Kampong Cham',
         state_code: '3',
       },
       {
         id: 3979,
-        name: 'Kampong Chhnang Province',
+        name: 'Kampong Chhnang',
         state_code: '4',
       },
       {
         id: 3988,
-        name: 'Kampong Speu Province',
+        name: 'Kampong Speu',
         state_code: '5',
       },
       {
         id: 3981,
-        name: 'Kampot Province',
+        name: 'Kampot',
         state_code: '7',
       },
       {
         id: 3983,
-        name: 'Kandal Province',
+        name: 'Kandal',
         state_code: '8',
       },
       {
         id: 3978,
-        name: 'Kep Province',
+        name: 'Kep',
         state_code: '23',
       },
       {
         id: 3982,
-        name: 'Koh Kong Province',
+        name: 'Koh Kong',
         state_code: '9',
       },
       {
         id: 3986,
-        name: 'Kratié Province',
+        name: 'Kratié',
         state_code: '10',
       },
       {
         id: 3985,
-        name: 'Mondulkiri Province',
+        name: 'Mondulkiri',
         state_code: '11',
       },
       {
         id: 3987,
-        name: 'Oddar Meanchey Province',
+        name: 'Oddar Meanchey',
         state_code: '22',
       },
       {
         id: 3980,
-        name: 'Pailin Province',
+        name: 'Pailin',
         state_code: '24',
       },
       {
@@ -3664,47 +3664,47 @@ const CountriesState = [
       },
       {
         id: 3973,
-        name: 'Preah Vihear Province',
+        name: 'Preah Vihear',
         state_code: '13',
       },
       {
         id: 3974,
-        name: 'Prey Veng Province',
+        name: 'Prey Veng',
         state_code: '14',
       },
       {
         id: 3977,
-        name: 'Pursat Province',
+        name: 'Pursat',
         state_code: '15',
       },
       {
         id: 3990,
-        name: 'Ratanakiri Province',
+        name: 'Ratanakiri',
         state_code: '16',
       },
       {
         id: 3992,
-        name: 'Siem Reap Province',
+        name: 'Siem Reap',
         state_code: '17',
       },
       {
         id: 3989,
-        name: 'Sihanoukville Province',
+        name: 'Sihanoukville',
         state_code: '18',
       },
       {
         id: 3993,
-        name: 'Stung Treng Province',
+        name: 'Stung Treng',
         state_code: '19',
       },
       {
         id: 3972,
-        name: 'Svay Rieng Province',
+        name: 'Svay Rieng',
         state_code: '20',
       },
       {
         id: 3975,
-        name: 'Takéo Province',
+        name: 'Takéo',
         state_code: '21',
       },
     ],
@@ -4443,7 +4443,7 @@ const CountriesState = [
       },
       {
         id: 2255,
-        name: 'Taiwan Province, People\'s Republic of China',
+        name: 'Taiwan, People\'s Republic of China',
         state_code: 'TW',
       },
       {
@@ -4761,12 +4761,12 @@ const CountriesState = [
     states: [
       {
         id: 2754,
-        name: 'Bandundu Province',
+        name: 'Bandundu',
         state_code: 'BN',
       },
       {
         id: 2746,
-        name: 'Bas-Congo province',
+        name: 'Bas-Congo',
         state_code: 'BC',
       },
       {
@@ -4781,7 +4781,7 @@ const CountriesState = [
       },
       {
         id: 2750,
-        name: 'Haut-Katanga Province',
+        name: 'Haut-Katanga',
         state_code: 'HK',
       },
       {
@@ -4816,7 +4816,7 @@ const CountriesState = [
       },
       {
         id: 2742,
-        name: 'Katanga Province',
+        name: 'Katanga',
         state_code: 'KA',
       },
       {
@@ -4836,12 +4836,12 @@ const CountriesState = [
       },
       {
         id: 2747,
-        name: 'Lomami Province',
+        name: 'Lomami',
         state_code: 'LO',
       },
       {
         id: 2755,
-        name: 'Mai-Ndombe Province',
+        name: 'Mai-Ndombe',
         state_code: 'MN',
       },
       {
@@ -4866,7 +4866,7 @@ const CountriesState = [
       },
       {
         id: 2736,
-        name: 'Orientale Province',
+        name: 'Orientale',
         state_code: 'OR',
       },
       {
@@ -4886,7 +4886,7 @@ const CountriesState = [
       },
       {
         id: 2733,
-        name: 'Tanganyika Province',
+        name: 'Tanganyika',
         state_code: 'TA',
       },
       {
@@ -4920,22 +4920,22 @@ const CountriesState = [
     states: [
       {
         id: 1215,
-        name: 'Alajuela Province',
+        name: 'Alajuela',
         state_code: 'A',
       },
       {
         id: 1209,
-        name: 'Guanacaste Province',
+        name: 'Guanacaste',
         state_code: 'G',
       },
       {
         id: 1212,
-        name: 'Heredia Province',
+        name: 'Heredia',
         state_code: 'H',
       },
       {
         id: 1213,
-        name: 'Limón Province',
+        name: 'Limón',
         state_code: 'L',
       },
       {
@@ -4945,12 +4945,12 @@ const CountriesState = [
       },
       {
         id: 1210,
-        name: 'Puntarenas Province',
+        name: 'Puntarenas',
         state_code: 'P',
       },
       {
         id: 1214,
-        name: 'San José Province',
+        name: 'San José',
         state_code: 'SJ',
       },
     ],
@@ -5240,42 +5240,42 @@ const CountriesState = [
     states: [
       {
         id: 283,
-        name: 'Artemisa Province',
+        name: 'Artemisa',
         state_code: '15',
       },
       {
         id: 286,
-        name: 'Camagüey Province',
+        name: 'Camagüey',
         state_code: '09',
       },
       {
         id: 282,
-        name: 'Ciego de Ávila Province',
+        name: 'Ciego de Ávila',
         state_code: '08',
       },
       {
         id: 287,
-        name: 'Cienfuegos Province',
+        name: 'Cienfuegos',
         state_code: '06',
       },
       {
         id: 275,
-        name: 'Granma Province',
+        name: 'Granma',
         state_code: '12',
       },
       {
         id: 285,
-        name: 'Guantánamo Province',
+        name: 'Guantánamo',
         state_code: '14',
       },
       {
         id: 272,
-        name: 'Havana Province',
+        name: 'Havana',
         state_code: '03',
       },
       {
         id: 279,
-        name: 'Holguín Province',
+        name: 'Holguín',
         state_code: '11',
       },
       {
@@ -5285,37 +5285,37 @@ const CountriesState = [
       },
       {
         id: 281,
-        name: 'Las Tunas Province',
+        name: 'Las Tunas',
         state_code: '10',
       },
       {
         id: 284,
-        name: 'Matanzas Province',
+        name: 'Matanzas',
         state_code: '04',
       },
       {
         id: 276,
-        name: 'Mayabeque Province',
+        name: 'Mayabeque',
         state_code: '16',
       },
       {
         id: 277,
-        name: 'Pinar del Río Province',
+        name: 'Pinar del Río',
         state_code: '01',
       },
       {
         id: 274,
-        name: 'Sancti Spíritus Province',
+        name: 'Sancti Spíritus',
         state_code: '07',
       },
       {
         id: 273,
-        name: 'Santiago de Cuba Province',
+        name: 'Santiago de Cuba',
         state_code: '13',
       },
       {
         id: 280,
-        name: 'Villa Clara Province',
+        name: 'Villa Clara',
         state_code: '05',
       },
     ],
@@ -6050,22 +6050,22 @@ const CountriesState = [
     states: [
       {
         id: 4114,
-        name: 'Azua Province',
+        name: 'Azua',
         state_code: '02',
       },
       {
         id: 4105,
-        name: 'Baoruco Province',
+        name: 'Baoruco',
         state_code: '03',
       },
       {
         id: 4090,
-        name: 'Barahona Province',
+        name: 'Barahona',
         state_code: '04',
       },
       {
         id: 4107,
-        name: 'Dajabón Province',
+        name: 'Dajabón',
         state_code: '05',
       },
       {
@@ -6075,27 +6075,27 @@ const CountriesState = [
       },
       {
         id: 4113,
-        name: 'Duarte Province',
+        name: 'Duarte',
         state_code: '06',
       },
       {
         id: 4086,
-        name: 'El Seibo Province',
+        name: 'El Seibo',
         state_code: '08',
       },
       {
         id: 4102,
-        name: 'Espaillat Province',
+        name: 'Espaillat',
         state_code: '09',
       },
       {
         id: 4106,
-        name: 'Hato Mayor Province',
+        name: 'Hato Mayor',
         state_code: '30',
       },
       {
         id: 4089,
-        name: 'Hermanas Mirabal Province',
+        name: 'Hermanas Mirabal',
         state_code: '19',
       },
       {
@@ -6105,72 +6105,72 @@ const CountriesState = [
       },
       {
         id: 4109,
-        name: 'La Altagracia Province',
+        name: 'La Altagracia',
         state_code: '11',
       },
       {
         id: 4087,
-        name: 'La Romana Province',
+        name: 'La Romana',
         state_code: '12',
       },
       {
         id: 4116,
-        name: 'La Vega Province',
+        name: 'La Vega',
         state_code: '13',
       },
       {
         id: 4094,
-        name: 'María Trinidad Sánchez Province',
+        name: 'María Trinidad Sánchez',
         state_code: '14',
       },
       {
         id: 4099,
-        name: 'Monseñor Nouel Province',
+        name: 'Monseñor Nouel',
         state_code: '28',
       },
       {
         id: 4115,
-        name: 'Monte Cristi Province',
+        name: 'Monte Cristi',
         state_code: '15',
       },
       {
         id: 4111,
-        name: 'Monte Plata Province',
+        name: 'Monte Plata',
         state_code: '29',
       },
       {
         id: 4101,
-        name: 'Pedernales Province',
+        name: 'Pedernales',
         state_code: '16',
       },
       {
         id: 4096,
-        name: 'Peravia Province',
+        name: 'Peravia',
         state_code: '17',
       },
       {
         id: 4092,
-        name: 'Puerto Plata Province',
+        name: 'Puerto Plata',
         state_code: '18',
       },
       {
         id: 4103,
-        name: 'Samaná Province',
+        name: 'Samaná',
         state_code: '20',
       },
       {
         id: 4091,
-        name: 'San Cristóbal Province',
+        name: 'San Cristóbal',
         state_code: '21',
       },
       {
         id: 4112,
-        name: 'San José de Ocoa Province',
+        name: 'San José de Ocoa',
         state_code: '31',
       },
       {
         id: 4098,
-        name: 'San Juan Province',
+        name: 'San Juan',
         state_code: '22',
       },
       {
@@ -6180,27 +6180,27 @@ const CountriesState = [
       },
       {
         id: 4088,
-        name: 'Sánchez Ramírez Province',
+        name: 'Sánchez Ramírez',
         state_code: '24',
       },
       {
         id: 4108,
-        name: 'Santiago Province',
+        name: 'Santiago',
         state_code: '25',
       },
       {
         id: 4100,
-        name: 'Santiago Rodríguez Province',
+        name: 'Santiago Rodríguez',
         state_code: '26',
       },
       {
         id: 4093,
-        name: 'Santo Domingo Province',
+        name: 'Santo Domingo',
         state_code: '32',
       },
       {
         id: 4104,
-        name: 'Valverde Province',
+        name: 'Valverde',
         state_code: '27',
       },
     ],
@@ -6285,37 +6285,37 @@ const CountriesState = [
     states: [
       {
         id: 2923,
-        name: 'Azuay Province',
+        name: 'Azuay',
         state_code: 'A',
       },
       {
         id: 2920,
-        name: 'Bolívar Province',
+        name: 'Bolívar',
         state_code: 'B',
       },
       {
         id: 2917,
-        name: 'Cañar Province',
+        name: 'Cañar',
         state_code: 'F',
       },
       {
         id: 2915,
-        name: 'Carchi Province',
+        name: 'Carchi',
         state_code: 'C',
       },
       {
         id: 2925,
-        name: 'Chimborazo Province',
+        name: 'Chimborazo',
         state_code: 'H',
       },
       {
         id: 2921,
-        name: 'Cotopaxi Province',
+        name: 'Cotopaxi',
         state_code: 'X',
       },
       {
         id: 2924,
-        name: 'El Oro Province',
+        name: 'El Oro',
         state_code: 'O',
       },
       {
@@ -6325,77 +6325,77 @@ const CountriesState = [
       },
       {
         id: 2905,
-        name: 'Galápagos Province',
+        name: 'Galápagos',
         state_code: 'W',
       },
       {
         id: 2914,
-        name: 'Guayas Province',
+        name: 'Guayas',
         state_code: 'G',
       },
       {
         id: 2911,
-        name: 'Imbabura Province',
+        name: 'Imbabura',
         state_code: 'I',
       },
       {
         id: 2910,
-        name: 'Los Ríos Province',
+        name: 'Los Ríos',
         state_code: 'R',
       },
       {
         id: 2913,
-        name: 'Manabí Province',
+        name: 'Manabí',
         state_code: 'M',
       },
       {
         id: 2918,
-        name: 'Morona-Santiago Province',
+        name: 'Morona-Santiago',
         state_code: 'S',
       },
       {
         id: 2916,
-        name: 'Napo Province',
+        name: 'Napo',
         state_code: 'N',
       },
       {
         id: 2926,
-        name: 'Orellana Province',
+        name: 'Orellana',
         state_code: 'D',
       },
       {
         id: 2907,
-        name: 'Pastaza Province',
+        name: 'Pastaza',
         state_code: 'Y',
       },
       {
         id: 2927,
-        name: 'Pichincha Province',
+        name: 'Pichincha',
         state_code: 'P',
       },
       {
         id: 2912,
-        name: 'Santa Elena Province',
+        name: 'Santa Elena',
         state_code: 'SE',
       },
       {
         id: 2919,
-        name: 'Santo Domingo de los Tsáchilas Province',
+        name: 'Santo Domingo de los Tsáchilas',
         state_code: 'SD',
       },
       {
         id: 2906,
-        name: 'Sucumbíos Province',
+        name: 'Sucumbíos',
         state_code: 'U',
       },
       {
         id: 2908,
-        name: 'Tungurahua Province',
+        name: 'Tungurahua',
         state_code: 'T',
       },
       {
         id: 2909,
-        name: 'Zamora-Chinchipe Province',
+        name: 'Zamora-Chinchipe',
         state_code: 'Z',
       },
     ],
@@ -6630,22 +6630,22 @@ const CountriesState = [
     states: [
       {
         id: 3444,
-        name: 'Annobón Province',
+        name: 'Annobón',
         state_code: 'AN',
       },
       {
         id: 3446,
-        name: 'Bioko Norte Province',
+        name: 'Bioko Norte',
         state_code: 'BN',
       },
       {
         id: 3443,
-        name: 'Bioko Sur Province',
+        name: 'Bioko Sur',
         state_code: 'BS',
       },
       {
         id: 3445,
-        name: 'Centro Sur Province',
+        name: 'Centro Sur',
         state_code: 'CS',
       },
       {
@@ -6655,12 +6655,12 @@ const CountriesState = [
       },
       {
         id: 3439,
-        name: 'Kié-Ntem Province',
+        name: 'Kié-Ntem',
         state_code: 'KN',
       },
       {
         id: 3441,
-        name: 'Litoral Province',
+        name: 'Litoral',
         state_code: 'LI',
       },
       {
@@ -6670,7 +6670,7 @@ const CountriesState = [
       },
       {
         id: 3440,
-        name: 'Wele-Nzas Province',
+        name: 'Wele-Nzas',
         state_code: 'WN',
       },
     ],
@@ -7013,7 +7013,7 @@ const CountriesState = [
       },
       {
         id: 1492,
-        name: 'Eastern Finland Province',
+        name: 'Eastern Finland',
         state_code: 'IS',
       },
       {
@@ -7058,7 +7058,7 @@ const CountriesState = [
       },
       {
         id: 1499,
-        name: 'Oulu Province',
+        name: 'Oulu',
         state_code: 'OL',
       },
       {
@@ -7351,47 +7351,47 @@ const CountriesState = [
     states: [
       {
         id: 2727,
-        name: 'Estuaire Province',
+        name: 'Estuaire',
         state_code: '1',
       },
       {
         id: 2726,
-        name: 'Haut-Ogooué Province',
+        name: 'Haut-Ogooué',
         state_code: '2',
       },
       {
         id: 2730,
-        name: 'Moyen-Ogooué Province',
+        name: 'Moyen-Ogooué',
         state_code: '3',
       },
       {
         id: 2731,
-        name: 'Ngounié Province',
+        name: 'Ngounié',
         state_code: '4',
       },
       {
         id: 2725,
-        name: 'Nyanga Province',
+        name: 'Nyanga',
         state_code: '5',
       },
       {
         id: 2724,
-        name: 'Ogooué-Ivindo Province',
+        name: 'Ogooué-Ivindo',
         state_code: '6',
       },
       {
         id: 2729,
-        name: 'Ogooué-Lolo Province',
+        name: 'Ogooué-Lolo',
         state_code: '7',
       },
       {
         id: 2728,
-        name: 'Ogooué-Maritime Province',
+        name: 'Ogooué-Maritime',
         state_code: '8',
       },
       {
         id: 2723,
-        name: 'Woleu-Ntem Province',
+        name: 'Woleu-Ntem',
         state_code: '9',
       },
     ],
@@ -8316,12 +8316,12 @@ const CountriesState = [
       },
       {
         id: 2721,
-        name: 'Leste Province',
+        name: 'Leste',
         state_code: 'L',
       },
       {
         id: 2717,
-        name: 'Norte Province',
+        name: 'Norte',
         state_code: 'N',
       },
       {
@@ -8336,7 +8336,7 @@ const CountriesState = [
       },
       {
         id: 2716,
-        name: 'Sul Province',
+        name: 'Sul',
         state_code: 'S',
       },
       {
@@ -9259,122 +9259,122 @@ const CountriesState = [
     states: [
       {
         id: 3929,
-        name: 'Alborz Province',
+        name: 'Alborz',
         state_code: '32',
       },
       {
         id: 3934,
-        name: 'Ardabil Province',
+        name: 'Ardabil',
         state_code: '03',
       },
       {
         id: 3932,
-        name: 'Bushehr Province',
+        name: 'Bushehr',
         state_code: '06',
       },
       {
         id: 3921,
-        name: 'Chaharmahal and Bakhtiari Province',
+        name: 'Chaharmahal and Bakhtiari',
         state_code: '08',
       },
       {
         id: 3944,
-        name: 'East Azerbaijan Province',
+        name: 'East Azerbaijan',
         state_code: '01',
       },
       {
         id: 3939,
-        name: 'Fars Province',
+        name: 'Fars',
         state_code: '14',
       },
       {
         id: 3920,
-        name: 'Gilan Province',
+        name: 'Gilan',
         state_code: '19',
       },
       {
         id: 3933,
-        name: 'Golestan Province',
+        name: 'Golestan',
         state_code: '27',
       },
       {
         id: 3937,
-        name: 'Hormozgan Province',
+        name: 'Hormozgan',
         state_code: '23',
       },
       {
         id: 3918,
-        name: 'Ilam Province',
+        name: 'Ilam',
         state_code: '05',
       },
       {
         id: 3923,
-        name: 'Isfahan Province',
+        name: 'Isfahan',
         state_code: '04',
       },
       {
         id: 3943,
-        name: 'Kerman Province',
+        name: 'Kerman',
         state_code: '15',
       },
       {
         id: 3919,
-        name: 'Kermanshah Province',
+        name: 'Kermanshah',
         state_code: '17',
       },
       {
         id: 3917,
-        name: 'Khuzestan Province',
+        name: 'Khuzestan',
         state_code: '10',
       },
       {
         id: 3926,
-        name: 'Kohgiluyeh and Boyer-Ahmad Province',
+        name: 'Kohgiluyeh and Boyer-Ahmad',
         state_code: '18',
       },
       {
         id: 3935,
-        name: 'Kurdistan Province',
+        name: 'Kurdistan',
         state_code: '16',
       },
       {
         id: 3928,
-        name: 'Lorestan Province',
+        name: 'Lorestan',
         state_code: '20',
       },
       {
         id: 3916,
-        name: 'Markazi Province',
+        name: 'Markazi',
         state_code: '22',
       },
       {
         id: 3938,
-        name: 'Mazandaran Province',
+        name: 'Mazandaran',
         state_code: '21',
       },
       {
         id: 3942,
-        name: 'North Khorasan Province',
+        name: 'North Khorasan',
         state_code: '31',
       },
       {
         id: 3941,
-        name: 'Qazvin Province',
+        name: 'Qazvin',
         state_code: '28',
       },
       {
         id: 3922,
-        name: 'Qom Province',
+        name: 'Qom',
         state_code: '26',
       },
       {
         id: 3927,
-        name: 'Razavi Khorasan Province',
+        name: 'Razavi Khorasan',
         state_code: '30',
       },
       {
         id: 3940,
-        name: 'Semnan Province',
+        name: 'Semnan',
         state_code: '12',
       },
       {
@@ -9384,27 +9384,27 @@ const CountriesState = [
       },
       {
         id: 3930,
-        name: 'South Khorasan Province',
+        name: 'South Khorasan',
         state_code: '29',
       },
       {
         id: 3945,
-        name: 'Tehran Province',
+        name: 'Tehran',
         state_code: '07',
       },
       {
         id: 3924,
-        name: 'West Azarbaijan Province',
+        name: 'West Azarbaijan',
         state_code: '02',
       },
       {
         id: 3936,
-        name: 'Yazd Province',
+        name: 'Yazd',
         state_code: '25',
       },
       {
         id: 3925,
-        name: 'Zanjan Province',
+        name: 'Zanjan',
         state_code: '11',
       },
     ],
@@ -9734,7 +9734,7 @@ const CountriesState = [
       },
       {
         id: 1701,
-        name: 'Benevento Province',
+        name: 'Benevento',
         state_code: 'BN',
       },
       {
@@ -9884,7 +9884,7 @@ const CountriesState = [
       },
       {
         id: 1693,
-        name: 'Pesaro and Urbino Province',
+        name: 'Pesaro and Urbino',
         state_code: 'PU',
       },
       {
@@ -9894,422 +9894,422 @@ const CountriesState = [
       },
       {
         id: 1783,
-        name: 'Province of Alessandria',
+        name: 'Alessandria',
         state_code: 'AL',
       },
       {
         id: 1672,
-        name: 'Province of Ancona',
+        name: 'Ancona',
         state_code: 'AN',
       },
       {
         id: 1681,
-        name: 'Province of Ascoli Piceno',
+        name: 'Ascoli Piceno',
         state_code: 'AP',
       },
       {
         id: 1780,
-        name: 'Province of Asti',
+        name: 'Asti',
         state_code: 'AT',
       },
       {
         id: 1692,
-        name: 'Province of Avellino',
+        name: 'Avellino',
         state_code: 'AV',
       },
       {
         id: 1686,
-        name: 'Province of Barletta-Andria-Trani',
+        name: 'Barletta-Andria-Trani',
         state_code: 'BT',
       },
       {
         id: 1689,
-        name: 'Province of Belluno',
+        name: 'Belluno',
         state_code: 'BL',
       },
       {
         id: 1704,
-        name: 'Province of Bergamo',
+        name: 'Bergamo',
         state_code: 'BG',
       },
       {
         id: 1778,
-        name: 'Province of Biella',
+        name: 'Biella',
         state_code: 'BI',
       },
       {
         id: 1717,
-        name: 'Province of Brescia',
+        name: 'Brescia',
         state_code: 'BS',
       },
       {
         id: 1714,
-        name: 'Province of Brindisi',
+        name: 'Brindisi',
         state_code: 'BR',
       },
       {
         id: 1721,
-        name: 'Province of Campobasso',
+        name: 'Campobasso',
         state_code: 'CB',
       },
       {
         id: 1730,
-        name: 'Province of Carbonia-Iglesias',
+        name: 'Carbonia-Iglesias',
         state_code: 'CI',
       },
       {
         id: 1731,
-        name: 'Province of Caserta',
+        name: 'Caserta',
         state_code: 'CE',
       },
       {
         id: 1728,
-        name: 'Province of Catanzaro',
+        name: 'Catanzaro',
         state_code: 'CZ',
       },
       {
         id: 1739,
-        name: 'Province of Chieti',
+        name: 'Chieti',
         state_code: 'CH',
       },
       {
         id: 1740,
-        name: 'Province of Como',
+        name: 'Como',
         state_code: 'CO',
       },
       {
         id: 1742,
-        name: 'Province of Cosenza',
+        name: 'Cosenza',
         state_code: 'CS',
       },
       {
         id: 1751,
-        name: 'Province of Cremona',
+        name: 'Cremona',
         state_code: 'CR',
       },
       {
         id: 1754,
-        name: 'Province of Crotone',
+        name: 'Crotone',
         state_code: 'KR',
       },
       {
         id: 1775,
-        name: 'Province of Cuneo',
+        name: 'Cuneo',
         state_code: 'CN',
       },
       {
         id: 1744,
-        name: 'Province of Fermo',
+        name: 'Fermo',
         state_code: 'FM',
       },
       {
         id: 1746,
-        name: 'Province of Ferrara',
+        name: 'Ferrara',
         state_code: 'FE',
       },
       {
         id: 1771,
-        name: 'Province of Foggia',
+        name: 'Foggia',
         state_code: 'FG',
       },
       {
         id: 1779,
-        name: 'Province of Forlì-Cesena',
+        name: 'Forlì-Cesena',
         state_code: 'FC',
       },
       {
         id: 1776,
-        name: 'Province of Frosinone',
+        name: 'Frosinone',
         state_code: 'FR',
       },
       {
         id: 1777,
-        name: 'Province of Gorizia',
+        name: 'Gorizia',
         state_code: 'GO',
       },
       {
         id: 1787,
-        name: 'Province of Grosseto',
+        name: 'Grosseto',
         state_code: 'GR',
       },
       {
         id: 1788,
-        name: 'Province of Imperia',
+        name: 'Imperia',
         state_code: 'IM',
       },
       {
         id: 1789,
-        name: 'Province of Isernia',
+        name: 'Isernia',
         state_code: 'IS',
       },
       {
         id: 1781,
-        name: 'Province of L\'Aquila',
+        name: 'L\'Aquila',
         state_code: 'AQ',
       },
       {
         id: 1791,
-        name: 'Province of La Spezia',
+        name: 'La Spezia',
         state_code: 'SP',
       },
       {
         id: 1674,
-        name: 'Province of Latina',
+        name: 'Latina',
         state_code: 'LT',
       },
       {
         id: 1675,
-        name: 'Province of Lecce',
+        name: 'Lecce',
         state_code: 'LE',
       },
       {
         id: 1677,
-        name: 'Province of Lecco',
+        name: 'Lecco',
         state_code: 'LC',
       },
       {
         id: 1745,
-        name: 'Province of Livorno',
+        name: 'Livorno',
         state_code: 'LI',
       },
       {
         id: 1747,
-        name: 'Province of Lodi',
+        name: 'Lodi',
         state_code: 'LO',
       },
       {
         id: 1749,
-        name: 'Province of Lucca',
+        name: 'Lucca',
         state_code: 'LU',
       },
       {
         id: 1750,
-        name: 'Province of Macerata',
+        name: 'Macerata',
         state_code: 'MC',
       },
       {
         id: 1758,
-        name: 'Province of Mantua',
+        name: 'Mantua',
         state_code: 'MN',
       },
       {
         id: 1759,
-        name: 'Province of Massa and Carrara',
+        name: 'Massa and Carrara',
         state_code: 'MS',
       },
       {
         id: 1760,
-        name: 'Province of Matera',
+        name: 'Matera',
         state_code: 'MT',
       },
       {
         id: 1761,
-        name: 'Province of Medio Campidano',
+        name: 'Medio Campidano',
         state_code: 'VS',
       },
       {
         id: 1757,
-        name: 'Province of Modena',
+        name: 'Modena',
         state_code: 'MO',
       },
       {
         id: 1769,
-        name: 'Province of Monza and Brianza',
+        name: 'Monza and Brianza',
         state_code: 'MB',
       },
       {
         id: 1774,
-        name: 'Province of Novara',
+        name: 'Novara',
         state_code: 'NO',
       },
       {
         id: 1790,
-        name: 'Province of Nuoro',
+        name: 'Nuoro',
         state_code: 'NU',
       },
       {
         id: 1782,
-        name: 'Province of Ogliastra',
+        name: 'Ogliastra',
         state_code: 'OG',
       },
       {
         id: 1784,
-        name: 'Province of Olbia-Tempio',
+        name: 'Olbia-Tempio',
         state_code: 'OT',
       },
       {
         id: 1786,
-        name: 'Province of Oristano',
+        name: 'Oristano',
         state_code: 'OR',
       },
       {
         id: 1665,
-        name: 'Province of Padua',
+        name: 'Padua',
         state_code: 'PD',
       },
       {
         id: 1666,
-        name: 'Province of Parma',
+        name: 'Parma',
         state_code: 'PR',
       },
       {
         id: 1676,
-        name: 'Province of Pavia',
+        name: 'Pavia',
         state_code: 'PV',
       },
       {
         id: 1691,
-        name: 'Province of Perugia',
+        name: 'Perugia',
         state_code: 'PG',
       },
       {
         id: 1694,
-        name: 'Province of Pescara',
+        name: 'Pescara',
         state_code: 'PE',
       },
       {
         id: 1696,
-        name: 'Province of Piacenza',
+        name: 'Piacenza',
         state_code: 'PC',
       },
       {
         id: 1685,
-        name: 'Province of Pisa',
+        name: 'Pisa',
         state_code: 'PI',
       },
       {
         id: 1687,
-        name: 'Province of Pistoia',
+        name: 'Pistoia',
         state_code: 'PT',
       },
       {
         id: 1690,
-        name: 'Province of Pordenone',
+        name: 'Pordenone',
         state_code: 'PN',
       },
       {
         id: 1697,
-        name: 'Province of Potenza',
+        name: 'Potenza',
         state_code: 'PZ',
       },
       {
         id: 1700,
-        name: 'Province of Prato',
+        name: 'Prato',
         state_code: 'PO',
       },
       {
         id: 1707,
-        name: 'Province of Ravenna',
+        name: 'Ravenna',
         state_code: 'RA',
       },
       {
         id: 1708,
-        name: 'Province of Reggio Emilia',
+        name: 'Reggio Emilia',
         state_code: 'RE',
       },
       {
         id: 1712,
-        name: 'Province of Rieti',
+        name: 'Rieti',
         state_code: 'RI',
       },
       {
         id: 1713,
-        name: 'Province of Rimini',
+        name: 'Rimini',
         state_code: 'RN',
       },
       {
         id: 1719,
-        name: 'Province of Rovigo',
+        name: 'Rovigo',
         state_code: 'RO',
       },
       {
         id: 1720,
-        name: 'Province of Salerno',
+        name: 'Salerno',
         state_code: 'SA',
       },
       {
         id: 1722,
-        name: 'Province of Sassari',
+        name: 'Sassari',
         state_code: 'SS',
       },
       {
         id: 1732,
-        name: 'Province of Savona',
+        name: 'Savona',
         state_code: 'SV',
       },
       {
         id: 1734,
-        name: 'Province of Siena',
+        name: 'Siena',
         state_code: 'SI',
       },
       {
         id: 1741,
-        name: 'Province of Sondrio',
+        name: 'Sondrio',
         state_code: 'SO',
       },
       {
         id: 1743,
-        name: 'Province of Taranto',
+        name: 'Taranto',
         state_code: 'TA',
       },
       {
         id: 1752,
-        name: 'Province of Teramo',
+        name: 'Teramo',
         state_code: 'TE',
       },
       {
         id: 1755,
-        name: 'Province of Terni',
+        name: 'Terni',
         state_code: 'TR',
       },
       {
         id: 1762,
-        name: 'Province of Treviso',
+        name: 'Treviso',
         state_code: 'TV',
       },
       {
         id: 1763,
-        name: 'Province of Trieste',
+        name: 'Trieste',
         state_code: 'TS',
       },
       {
         id: 1764,
-        name: 'Province of Udine',
+        name: 'Udine',
         state_code: 'UD',
       },
       {
         id: 1765,
-        name: 'Province of Varese',
+        name: 'Varese',
         state_code: 'VA',
       },
       {
         id: 1726,
-        name: 'Province of Verbano-Cusio-Ossola',
+        name: 'Verbano-Cusio-Ossola',
         state_code: 'VB',
       },
       {
         id: 1785,
-        name: 'Province of Vercelli',
+        name: 'Vercelli',
         state_code: 'VC',
       },
       {
         id: 1736,
-        name: 'Province of Verona',
+        name: 'Verona',
         state_code: 'VR',
       },
       {
         id: 1737,
-        name: 'Province of Vibo Valentia',
+        name: 'Vibo Valentia',
         state_code: 'VV',
       },
       {
         id: 1738,
-        name: 'Province of Vicenza',
+        name: 'Vicenza',
         state_code: 'VI',
       },
       {
         id: 1735,
-        name: 'Province of Viterbo',
+        name: 'Viterbo',
         state_code: 'VT',
       },
       {
@@ -10843,7 +10843,7 @@ const CountriesState = [
       },
       {
         id: 148,
-        name: 'West Kazakhstan Province',
+        name: 'West Kazakhstan',
         state_code: 'ZAP',
       },
     ],
@@ -10878,17 +10878,17 @@ const CountriesState = [
       },
       {
         id: 160,
-        name: 'Central Province',
+        name: 'Central',
         state_code: '200',
       },
       {
         id: 172,
-        name: 'Coast Province',
+        name: 'Coast',
         state_code: '300',
       },
       {
         id: 189,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: '400',
       },
       {
@@ -11038,7 +11038,7 @@ const CountriesState = [
       },
       {
         id: 162,
-        name: 'North Eastern Province',
+        name: 'North Eastern',
         state_code: '500',
       },
       {
@@ -11053,7 +11053,7 @@ const CountriesState = [
       },
       {
         id: 204,
-        name: 'Nyanza Province',
+        name: 'Nyanza',
         state_code: '600',
       },
       {
@@ -11063,7 +11063,7 @@ const CountriesState = [
       },
       {
         id: 179,
-        name: 'Rift Valley Province',
+        name: 'Rift Valley',
         state_code: '700',
       },
       {
@@ -11123,7 +11123,7 @@ const CountriesState = [
       },
       {
         id: 177,
-        name: 'Western Province',
+        name: 'Western',
         state_code: '800',
       },
     ],
@@ -11163,27 +11163,27 @@ const CountriesState = [
     states: [
       {
         id: 3998,
-        name: 'Chagang Province',
+        name: 'Chagang',
         state_code: '04',
       },
       {
         id: 3999,
-        name: 'Kangwon Province',
+        name: 'Kangwon',
         state_code: '07',
       },
       {
         id: 3995,
-        name: 'North Hamgyong Province',
+        name: 'North Hamgyong',
         state_code: '09',
       },
       {
         id: 4004,
-        name: 'North Hwanghae Province',
+        name: 'North Hwanghae',
         state_code: '06',
       },
       {
         id: 4002,
-        name: 'North Pyongan Province',
+        name: 'North Pyongan',
         state_code: '03',
       },
       {
@@ -11198,22 +11198,22 @@ const CountriesState = [
       },
       {
         id: 3996,
-        name: 'Ryanggang Province',
+        name: 'Ryanggang',
         state_code: '10',
       },
       {
         id: 4000,
-        name: 'South Hamgyong Province',
+        name: 'South Hamgyong',
         state_code: '08',
       },
       {
         id: 4003,
-        name: 'South Hwanghae Province',
+        name: 'South Hwanghae',
         state_code: '05',
       },
       {
         id: 3997,
-        name: 'South Pyongan Province',
+        name: 'South Pyongan',
         state_code: '02',
       },
     ],
@@ -11243,7 +11243,7 @@ const CountriesState = [
       },
       {
         id: 3862,
-        name: 'Gangwon Province',
+        name: 'Gangwon',
         state_code: '42',
       },
       {
@@ -11253,7 +11253,7 @@ const CountriesState = [
       },
       {
         id: 3847,
-        name: 'Gyeonggi Province',
+        name: 'Gyeonggi',
         state_code: '41',
       },
       {
@@ -11268,17 +11268,17 @@ const CountriesState = [
       },
       {
         id: 3854,
-        name: 'North Chungcheong Province',
+        name: 'North Chungcheong',
         state_code: '43',
       },
       {
         id: 3855,
-        name: 'North Gyeongsang Province',
+        name: 'North Gyeongsang',
         state_code: '47',
       },
       {
         id: 3851,
-        name: 'North Jeolla Province',
+        name: 'North Jeolla',
         state_code: '45',
       },
       {
@@ -11293,17 +11293,17 @@ const CountriesState = [
       },
       {
         id: 3859,
-        name: 'South Chungcheong Province',
+        name: 'South Chungcheong',
         state_code: '44',
       },
       {
         id: 3857,
-        name: 'South Gyeongsang Province',
+        name: 'South Gyeongsang',
         state_code: '48',
       },
       {
         id: 3856,
-        name: 'South Jeolla Province',
+        name: 'South Jeolla',
         state_code: '46',
       },
       {
@@ -11463,72 +11463,72 @@ const CountriesState = [
     states: [
       {
         id: 982,
-        name: 'Attapeu Province',
+        name: 'Attapeu',
         state_code: 'AT',
       },
       {
         id: 991,
-        name: 'Bokeo Province',
+        name: 'Bokeo',
         state_code: 'BK',
       },
       {
         id: 985,
-        name: 'Bolikhamsai Province',
+        name: 'Bolikhamsai',
         state_code: 'BL',
       },
       {
         id: 996,
-        name: 'Champasak Province',
+        name: 'Champasak',
         state_code: 'CH',
       },
       {
         id: 989,
-        name: 'Houaphanh Province',
+        name: 'Houaphanh',
         state_code: 'HO',
       },
       {
         id: 986,
-        name: 'Khammouane Province',
+        name: 'Khammouane',
         state_code: 'KH',
       },
       {
         id: 992,
-        name: 'Luang Namtha Province',
+        name: 'Luang Namtha',
         state_code: 'LM',
       },
       {
         id: 978,
-        name: 'Luang Prabang Province',
+        name: 'Luang Prabang',
         state_code: 'LP',
       },
       {
         id: 988,
-        name: 'Oudomxay Province',
+        name: 'Oudomxay',
         state_code: 'OU',
       },
       {
         id: 987,
-        name: 'Phongsaly Province',
+        name: 'Phongsaly',
         state_code: 'PH',
       },
       {
         id: 993,
-        name: 'Sainyabuli Province',
+        name: 'Sainyabuli',
         state_code: 'XA',
       },
       {
         id: 981,
-        name: 'Salavan Province',
+        name: 'Salavan',
         state_code: 'SL',
       },
       {
         id: 990,
-        name: 'Savannakhet Province',
+        name: 'Savannakhet',
         state_code: 'SV',
       },
       {
         id: 984,
-        name: 'Sekong Province',
+        name: 'Sekong',
         state_code: 'XE',
       },
       {
@@ -11538,7 +11538,7 @@ const CountriesState = [
       },
       {
         id: 980,
-        name: 'Vientiane Province',
+        name: 'Vientiane',
         state_code: 'VI',
       },
       {
@@ -11548,12 +11548,12 @@ const CountriesState = [
       },
       {
         id: 983,
-        name: 'Xaisomboun Province',
+        name: 'Xaisomboun',
         state_code: 'XS',
       },
       {
         id: 995,
-        name: 'Xiangkhouang Province',
+        name: 'Xiangkhouang',
         state_code: 'XI',
       },
     ],
@@ -13422,32 +13422,32 @@ const CountriesState = [
     states: [
       {
         id: 2951,
-        name: 'Antananarivo Province',
+        name: 'Antananarivo',
         state_code: 'T',
       },
       {
         id: 2950,
-        name: 'Antsiranana Province',
+        name: 'Antsiranana',
         state_code: 'D',
       },
       {
         id: 2948,
-        name: 'Fianarantsoa Province',
+        name: 'Fianarantsoa',
         state_code: 'F',
       },
       {
         id: 2953,
-        name: 'Mahajanga Province',
+        name: 'Mahajanga',
         state_code: 'M',
       },
       {
         id: 2952,
-        name: 'Toamasina Province',
+        name: 'Toamasina',
         state_code: 'A',
       },
       {
         id: 2949,
-        name: 'Toliara Province',
+        name: 'Toliara',
         state_code: 'U',
       },
     ],
@@ -13727,7 +13727,7 @@ const CountriesState = [
       },
       {
         id: 2604,
-        name: 'Central Province',
+        name: 'Central',
         state_code: 'CE',
       },
       {
@@ -13797,12 +13797,12 @@ const CountriesState = [
       },
       {
         id: 2589,
-        name: 'North Central Province',
+        name: 'North Central',
         state_code: 'NC',
       },
       {
         id: 2588,
-        name: 'North Province',
+        name: 'North',
         state_code: 'NO',
       },
       {
@@ -13817,12 +13817,12 @@ const CountriesState = [
       },
       {
         id: 2606,
-        name: 'South Central Province',
+        name: 'South Central',
         state_code: 'SC',
       },
       {
         id: 2605,
-        name: 'South Province',
+        name: 'South',
         state_code: 'SU',
       },
       {
@@ -13832,7 +13832,7 @@ const CountriesState = [
       },
       {
         id: 2593,
-        name: 'Upper South Province',
+        name: 'Upper South',
         state_code: 'US',
       },
       {
@@ -14888,107 +14888,107 @@ const CountriesState = [
     states: [
       {
         id: 1973,
-        name: 'Arkhangai Province',
+        name: 'Arkhangai',
         state_code: '073',
       },
       {
         id: 1969,
-        name: 'Bayan-Ölgii Province',
+        name: 'Bayan-Ölgii',
         state_code: '071',
       },
       {
         id: 1976,
-        name: 'Bayankhongor Province',
+        name: 'Bayankhongor',
         state_code: '069',
       },
       {
         id: 1961,
-        name: 'Bulgan Province',
+        name: 'Bulgan',
         state_code: '067',
       },
       {
         id: 1962,
-        name: 'Darkhan-Uul Province',
+        name: 'Darkhan-Uul',
         state_code: '037',
       },
       {
         id: 1963,
-        name: 'Dornod Province',
+        name: 'Dornod',
         state_code: '061',
       },
       {
         id: 1981,
-        name: 'Dornogovi Province',
+        name: 'Dornogovi',
         state_code: '063',
       },
       {
         id: 1970,
-        name: 'Dundgovi Province',
+        name: 'Dundgovi',
         state_code: '059',
       },
       {
         id: 1972,
-        name: 'Govi-Altai Province',
+        name: 'Govi-Altai',
         state_code: '065',
       },
       {
         id: 1978,
-        name: 'Govisümber Province',
+        name: 'Govisümber',
         state_code: '064',
       },
       {
         id: 1974,
-        name: 'Khentii Province',
+        name: 'Khentii',
         state_code: '039',
       },
       {
         id: 1964,
-        name: 'Khovd Province',
+        name: 'Khovd',
         state_code: '043',
       },
       {
         id: 1975,
-        name: 'Khövsgöl Province',
+        name: 'Khövsgöl',
         state_code: '041',
       },
       {
         id: 1967,
-        name: 'Ömnögovi Province',
+        name: 'Ömnögovi',
         state_code: '053',
       },
       {
         id: 1966,
-        name: 'Orkhon Province',
+        name: 'Orkhon',
         state_code: '035',
       },
       {
         id: 1965,
-        name: 'Övörkhangai Province',
+        name: 'Övörkhangai',
         state_code: '055',
       },
       {
         id: 1980,
-        name: 'Selenge Province',
+        name: 'Selenge',
         state_code: '049',
       },
       {
         id: 1977,
-        name: 'Sükhbaatar Province',
+        name: 'Sükhbaatar',
         state_code: '051',
       },
       {
         id: 1968,
-        name: 'Töv Province',
+        name: 'Töv',
         state_code: '047',
       },
       {
         id: 1971,
-        name: 'Uvs Province',
+        name: 'Uvs',
         state_code: '046',
       },
       {
         id: 1979,
-        name: 'Zavkhan Province',
+        name: 'Zavkhan',
         state_code: '057',
       },
     ],
@@ -15132,32 +15132,32 @@ const CountriesState = [
     states: [
       {
         id: 3320,
-        name: 'Al Haouz Province',
+        name: 'Al Haouz',
         state_code: 'HAO',
       },
       {
         id: 3267,
-        name: 'Al Hoceïma Province',
+        name: 'Al Hoceïma',
         state_code: 'HOC',
       },
       {
         id: 3266,
-        name: 'Aousserd Province',
+        name: 'Aousserd',
         state_code: 'AOU',
       },
       {
         id: 3297,
-        name: 'Assa-Zag Province',
+        name: 'Assa-Zag',
         state_code: 'ASZ',
       },
       {
         id: 3321,
-        name: 'Azilal Province',
+        name: 'Azilal',
         state_code: 'AZI',
       },
       {
         id: 3304,
-        name: 'Ben Slimane Province',
+        name: 'Ben Slimane',
         state_code: 'BES',
       },
       {
@@ -15167,22 +15167,22 @@ const CountriesState = [
       },
       {
         id: 3272,
-        name: 'Béni-Mellal Province',
+        name: 'Béni-Mellal',
         state_code: 'BEM',
       },
       {
         id: 3285,
-        name: 'Berkane Province',
+        name: 'Berkane',
         state_code: 'BER',
       },
       {
         id: 3275,
-        name: 'Boujdour Province',
+        name: 'Boujdour',
         state_code: 'BOD',
       },
       {
         id: 3270,
-        name: 'Boulemane Province',
+        name: 'Boulemane',
         state_code: 'BOM',
       },
       {
@@ -15192,12 +15192,12 @@ const CountriesState = [
       },
       {
         id: 3310,
-        name: 'Chefchaouen Province',
+        name: 'Chefchaouen',
         state_code: 'CHE',
       },
       {
         id: 3274,
-        name: 'Chichaoua Province',
+        name: 'Chichaoua',
         state_code: 'CHI',
       },
       {
@@ -15212,32 +15212,32 @@ const CountriesState = [
       },
       {
         id: 3291,
-        name: 'El Hajeb Province',
+        name: 'El Hajeb',
         state_code: 'HAJ',
       },
       {
         id: 3280,
-        name: 'El Jadida Province',
+        name: 'El Jadida',
         state_code: 'JDI',
       },
       {
         id: 3299,
-        name: 'Errachidia Province',
+        name: 'Errachidia',
         state_code: 'ERR',
       },
       {
         id: 3292,
-        name: 'Es Semara Province',
+        name: 'Es Semara',
         state_code: 'ESM',
       },
       {
         id: 3316,
-        name: 'Essaouira Province',
+        name: 'Essaouira',
         state_code: 'ESI',
       },
       {
         id: 3300,
-        name: 'Fahs Anjra Province',
+        name: 'Fahs Anjra',
         state_code: 'FAH',
       },
       {
@@ -15247,12 +15247,12 @@ const CountriesState = [
       },
       {
         id: 3301,
-        name: 'Figuig Province',
+        name: 'Figuig',
         state_code: 'FIG',
       },
       {
         id: 3265,
-        name: 'Guelmim Province',
+        name: 'Guelmim',
         state_code: 'GUE',
       },
       {
@@ -15262,7 +15262,7 @@ const CountriesState = [
       },
       {
         id: 3325,
-        name: 'Ifrane Province',
+        name: 'Ifrane',
         state_code: 'IFR',
       },
       {
@@ -15272,37 +15272,37 @@ const CountriesState = [
       },
       {
         id: 3307,
-        name: 'Jerada Province',
+        name: 'Jerada',
         state_code: 'JRA',
       },
       {
         id: 3309,
-        name: 'Kelaat Sraghna Province',
+        name: 'Kelaat Sraghna',
         state_code: 'KES',
       },
       {
         id: 3308,
-        name: 'Kénitra Province',
+        name: 'Kénitra',
         state_code: 'KEN',
       },
       {
         id: 3276,
-        name: 'Khémisset Province',
+        name: 'Khémisset',
         state_code: 'KHE',
       },
       {
         id: 3317,
-        name: 'Khénifra Province',
+        name: 'Khénifra',
         state_code: 'KHN',
       },
       {
         id: 3326,
-        name: 'Khouribga Province',
+        name: 'Khouribga',
         state_code: 'KHO',
       },
       {
         id: 3293,
-        name: 'Laâyoune Province',
+        name: 'Laâyoune',
         state_code: 'LAA',
       },
       {
@@ -15312,7 +15312,7 @@ const CountriesState = [
       },
       {
         id: 3268,
-        name: 'Larache Province',
+        name: 'Larache',
         state_code: 'LAR',
       },
       {
@@ -15322,22 +15322,22 @@ const CountriesState = [
       },
       {
         id: 3284,
-        name: 'Mediouna Province',
+        name: 'Mediouna',
         state_code: 'MED',
       },
       {
         id: 3315,
-        name: 'Moulay Yacoub Province',
+        name: 'Moulay Yacoub',
         state_code: 'MOU',
       },
       {
         id: 3281,
-        name: 'Nador Province',
+        name: 'Nador',
         state_code: 'NAD',
       },
       {
         id: 3287,
-        name: 'Nouaceur Province',
+        name: 'Nouaceur',
         state_code: 'NOU',
       },
       {
@@ -15347,37 +15347,37 @@ const CountriesState = [
       },
       {
         id: 3269,
-        name: 'Ouarzazate Province',
+        name: 'Ouarzazate',
         state_code: 'OUA',
       },
       {
         id: 3319,
-        name: 'Oued Ed-Dahab Province',
+        name: 'Oued Ed-Dahab',
         state_code: 'OUD',
       },
       {
         id: 3311,
-        name: 'Safi Province',
+        name: 'Safi',
         state_code: 'SAF',
       },
       {
         id: 3289,
-        name: 'Sefrou Province',
+        name: 'Sefrou',
         state_code: 'SEF',
       },
       {
         id: 3282,
-        name: 'Settat Province',
+        name: 'Settat',
         state_code: 'SET',
       },
       {
         id: 3302,
-        name: 'Shtouka Ait Baha Province',
+        name: 'Shtouka Ait Baha',
         state_code: 'CHT',
       },
       {
         id: 3279,
-        name: 'Sidi Kacem Province',
+        name: 'Sidi Kacem',
         state_code: 'SIK',
       },
       {
@@ -15392,7 +15392,7 @@ const CountriesState = [
       },
       {
         id: 3286,
-        name: 'Tan-Tan Province',
+        name: 'Tan-Tan',
         state_code: 'TNT',
       },
       {
@@ -15402,42 +15402,42 @@ const CountriesState = [
       },
       {
         id: 3323,
-        name: 'Taounate Province',
+        name: 'Taounate',
         state_code: 'TAO',
       },
       {
         id: 3322,
-        name: 'Taourirt Province',
+        name: 'Taourirt',
         state_code: 'TAI',
       },
       {
         id: 3314,
-        name: 'Taroudant Province',
+        name: 'Taroudant',
         state_code: 'TAR',
       },
       {
         id: 3312,
-        name: 'Tata Province',
+        name: 'Tata',
         state_code: 'TAT',
       },
       {
         id: 3296,
-        name: 'Taza Province',
+        name: 'Taza',
         state_code: 'TAZ',
       },
       {
         id: 3318,
-        name: 'Tétouan Province',
+        name: 'Tétouan',
         state_code: 'TET',
       },
       {
         id: 3277,
-        name: 'Tiznit Province',
+        name: 'Tiznit',
         state_code: 'TIZ',
       },
       {
         id: 3283,
-        name: 'Zagora Province',
+        name: 'Zagora',
         state_code: 'ZAG',
       },
     ],
@@ -15452,22 +15452,22 @@ const CountriesState = [
     states: [
       {
         id: 3327,
-        name: 'Cabo Delgado Province',
+        name: 'Cabo Delgado',
         state_code: 'P',
       },
       {
         id: 3329,
-        name: 'Gaza Province',
+        name: 'Gaza',
         state_code: 'G',
       },
       {
         id: 3330,
-        name: 'Inhambane Province',
+        name: 'Inhambane',
         state_code: 'I',
       },
       {
         id: 3337,
-        name: 'Manica Province',
+        name: 'Manica',
         state_code: 'B',
       },
       {
@@ -15477,32 +15477,32 @@ const CountriesState = [
       },
       {
         id: 3332,
-        name: 'Maputo Province',
+        name: 'Maputo',
         state_code: 'L',
       },
       {
         id: 3336,
-        name: 'Nampula Province',
+        name: 'Nampula',
         state_code: 'N',
       },
       {
         id: 3333,
-        name: 'Niassa Province',
+        name: 'Niassa',
         state_code: 'A',
       },
       {
         id: 3331,
-        name: 'Sofala Province',
+        name: 'Sofala',
         state_code: 'S',
       },
       {
         id: 3334,
-        name: 'Tete Province',
+        name: 'Tete',
         state_code: 'T',
       },
       {
         id: 3328,
-        name: 'Zambezia Province',
+        name: 'Zambezia',
         state_code: 'Q',
       },
     ],
@@ -16757,27 +16757,27 @@ const CountriesState = [
     states: [
       {
         id: 1393,
-        name: 'Bocas del Toro Province',
+        name: 'Bocas del Toro',
         state_code: '1',
       },
       {
         id: 1397,
-        name: 'Chiriquí Province',
+        name: 'Chiriquí',
         state_code: '4',
       },
       {
         id: 1387,
-        name: 'Coclé Province',
+        name: 'Coclé',
         state_code: '2',
       },
       {
         id: 1386,
-        name: 'Colón Province',
+        name: 'Colón',
         state_code: '3',
       },
       {
         id: 1385,
-        name: 'Darién Province',
+        name: 'Darién',
         state_code: '5',
       },
       {
@@ -16792,12 +16792,12 @@ const CountriesState = [
       },
       {
         id: 1389,
-        name: 'Herrera Province',
+        name: 'Herrera',
         state_code: '6',
       },
       {
         id: 1390,
-        name: 'Los Santos Province',
+        name: 'Los Santos',
         state_code: '7',
       },
       {
@@ -16807,17 +16807,17 @@ const CountriesState = [
       },
       {
         id: 1394,
-        name: 'Panamá Oeste Province',
+        name: 'Panamá Oeste',
         state_code: '10',
       },
       {
         id: 1395,
-        name: 'Panamá Province',
+        name: 'Panamá',
         state_code: '8',
       },
       {
         id: 1392,
-        name: 'Veraguas Province',
+        name: 'Veraguas',
         state_code: '9',
       },
     ],
@@ -16837,12 +16837,12 @@ const CountriesState = [
       },
       {
         id: 4847,
-        name: 'Central Province',
+        name: 'Central',
         state_code: 'CPM',
       },
       {
         id: 4846,
-        name: 'Chimbu Province',
+        name: 'Chimbu',
         state_code: 'CPK',
       },
       {
@@ -16852,12 +16852,12 @@ const CountriesState = [
       },
       {
         id: 4845,
-        name: 'Eastern Highlands Province',
+        name: 'Eastern Highlands',
         state_code: 'EHG',
       },
       {
         id: 4848,
-        name: 'Enga Province',
+        name: 'Enga',
         state_code: 'EPW',
       },
       {
@@ -16872,37 +16872,37 @@ const CountriesState = [
       },
       {
         id: 4832,
-        name: 'Jiwaka Province',
+        name: 'Jiwaka',
         state_code: 'JWK',
       },
       {
         id: 4843,
-        name: 'Madang Province',
+        name: 'Madang',
         state_code: 'MPM',
       },
       {
         id: 4842,
-        name: 'Manus Province',
+        name: 'Manus',
         state_code: 'MRL',
       },
       {
         id: 4849,
-        name: 'Milne Bay Province',
+        name: 'Milne Bay',
         state_code: 'MBA',
       },
       {
         id: 4835,
-        name: 'Morobe Province',
+        name: 'Morobe',
         state_code: 'MPL',
       },
       {
         id: 4841,
-        name: 'New Ireland Province',
+        name: 'New Ireland',
         state_code: 'NIK',
       },
       {
         id: 4838,
-        name: 'Oro Province',
+        name: 'Oro',
         state_code: 'NPP',
       },
       {
@@ -16912,27 +16912,27 @@ const CountriesState = [
       },
       {
         id: 4836,
-        name: 'Sandaun Province',
+        name: 'Sandaun',
         state_code: 'SAN',
       },
       {
         id: 4844,
-        name: 'Southern Highlands Province',
+        name: 'Southern Highlands',
         state_code: 'SHM',
       },
       {
         id: 4830,
-        name: 'West New Britain Province',
+        name: 'West New Britain',
         state_code: 'WBK',
       },
       {
         id: 4840,
-        name: 'Western Highlands Province',
+        name: 'Western Highlands',
         state_code: 'WHM',
       },
       {
         id: 4850,
-        name: 'Western Province',
+        name: 'Western',
         state_code: 'WPD',
       },
     ],
@@ -17487,7 +17487,7 @@ const CountriesState = [
       },
       {
         id: 1353,
-        name: 'Mountain Province',
+        name: 'Mountain',
         state_code: 'MOU',
       },
       {
@@ -18589,7 +18589,7 @@ const CountriesState = [
     states: [
       {
         id: 261,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: '02',
       },
       {
@@ -18599,17 +18599,17 @@ const CountriesState = [
       },
       {
         id: 263,
-        name: 'Northern Province',
+        name: 'Northern',
         state_code: '03',
       },
       {
         id: 259,
-        name: 'Southern Province',
+        name: 'Southern',
         state_code: '05',
       },
       {
         id: 260,
-        name: 'Western Province',
+        name: 'Western',
         state_code: '04',
       },
     ],
@@ -18975,12 +18975,12 @@ const CountriesState = [
     states: [
       {
         id: 270,
-        name: 'Príncipe Province',
+        name: 'Príncipe',
         state_code: 'P',
       },
       {
         id: 271,
-        name: 'São Tomé Province',
+        name: 'São Tomé',
         state_code: 'S',
       },
     ],
@@ -19020,7 +19020,7 @@ const CountriesState = [
       },
       {
         id: 2856,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: '04',
       },
       {
@@ -19420,17 +19420,17 @@ const CountriesState = [
     states: [
       {
         id: 914,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: 'E',
       },
       {
         id: 911,
-        name: 'Northern Province',
+        name: 'Northern',
         state_code: 'N',
       },
       {
         id: 912,
-        name: 'Southern Province',
+        name: 'Southern',
         state_code: 'S',
       },
       {
@@ -20600,17 +20600,17 @@ const CountriesState = [
     states: [
       {
         id: 4784,
-        name: 'Central Province',
+        name: 'Central',
         state_code: 'CE',
       },
       {
         id: 4781,
-        name: 'Choiseul Province',
+        name: 'Choiseul',
         state_code: 'CH',
       },
       {
         id: 4785,
-        name: 'Guadalcanal Province',
+        name: 'Guadalcanal',
         state_code: 'GU',
       },
       {
@@ -20620,32 +20620,32 @@ const CountriesState = [
       },
       {
         id: 4780,
-        name: 'Isabel Province',
+        name: 'Isabel',
         state_code: 'IS',
       },
       {
         id: 4782,
-        name: 'Makira-Ulawa Province',
+        name: 'Makira-Ulawa',
         state_code: 'MK',
       },
       {
         id: 4783,
-        name: 'Malaita Province',
+        name: 'Malaita',
         state_code: 'ML',
       },
       {
         id: 4787,
-        name: 'Rennell and Bellona Province',
+        name: 'Rennell and Bellona',
         state_code: 'RB',
       },
       {
         id: 4779,
-        name: 'Temotu Province',
+        name: 'Temotu',
         state_code: 'TE',
       },
       {
         id: 4786,
-        name: 'Western Province',
+        name: 'Western',
         state_code: 'WE',
       },
     ],
@@ -20874,22 +20874,22 @@ const CountriesState = [
     states: [
       {
         id: 1179,
-        name: 'A Coruña Province',
+        name: 'A Coruña',
         state_code: 'C',
       },
       {
         id: 1168,
-        name: 'Albacete Province',
+        name: 'Albacete',
         state_code: 'AB',
       },
       {
         id: 1156,
-        name: 'Alicante Province',
+        name: 'Alicante',
         state_code: 'A',
       },
       {
         id: 1151,
-        name: 'Almería Province',
+        name: 'Almería',
         state_code: 'AL',
       },
       {
@@ -20899,7 +20899,7 @@ const CountriesState = [
       },
       {
         id: 1148,
-        name: 'Araba Álava Province',
+        name: 'Araba Álava',
         state_code: 'VI',
       },
       {
@@ -20909,7 +20909,7 @@ const CountriesState = [
       },
       {
         id: 1153,
-        name: 'Badajoz Province',
+        name: 'Badajoz',
         state_code: 'BA',
       },
       {
@@ -20919,7 +20919,7 @@ const CountriesState = [
       },
       {
         id: 1180,
-        name: 'Barcelona Province',
+        name: 'Barcelona',
         state_code: 'B',
       },
       {
@@ -20929,22 +20929,22 @@ const CountriesState = [
       },
       {
         id: 1186,
-        name: 'Biscay Province',
+        name: 'Biscay',
         state_code: 'BI',
       },
       {
         id: 1146,
-        name: 'Burgos Province',
+        name: 'Burgos',
         state_code: 'BU',
       },
       {
         id: 1196,
-        name: 'Cáceres Province',
+        name: 'Cáceres',
         state_code: 'CC',
       },
       {
         id: 1201,
-        name: 'Cádiz Province',
+        name: 'Cádiz',
         state_code: 'CA',
       },
       {
@@ -20959,7 +20959,7 @@ const CountriesState = [
       },
       {
         id: 1207,
-        name: 'Castellón Province',
+        name: 'Castellón',
         state_code: 'CS',
       },
       {
@@ -20984,7 +20984,7 @@ const CountriesState = [
       },
       {
         id: 1150,
-        name: 'Ciudad Real Province',
+        name: 'Ciudad Real',
         state_code: 'CR',
       },
       {
@@ -20994,12 +20994,12 @@ const CountriesState = [
       },
       {
         id: 1197,
-        name: 'Córdoba Province',
+        name: 'Córdoba',
         state_code: 'CO',
       },
       {
         id: 1169,
-        name: 'Cuenca Province',
+        name: 'Cuenca',
         state_code: 'CU',
       },
       {
@@ -21014,37 +21014,37 @@ const CountriesState = [
       },
       {
         id: 1202,
-        name: 'Gipuzkoa Province',
+        name: 'Gipuzkoa',
         state_code: 'SS',
       },
       {
         id: 1178,
-        name: 'Girona Province',
+        name: 'Girona',
         state_code: 'GI',
       },
       {
         id: 1194,
-        name: 'Granada Province',
+        name: 'Granada',
         state_code: 'GR',
       },
       {
         id: 1172,
-        name: 'Guadalajara Province',
+        name: 'Guadalajara',
         state_code: 'GU',
       },
       {
         id: 1199,
-        name: 'Huelva Province',
+        name: 'Huelva',
         state_code: 'H',
       },
       {
         id: 1163,
-        name: 'Huesca Province',
+        name: 'Huesca',
         state_code: 'HU',
       },
       {
         id: 1181,
-        name: 'Jaén Province',
+        name: 'Jaén',
         state_code: 'J',
       },
       {
@@ -21054,32 +21054,32 @@ const CountriesState = [
       },
       {
         id: 1166,
-        name: 'Las Palmas Province',
+        name: 'Las Palmas',
         state_code: 'GC',
       },
       {
         id: 1200,
-        name: 'León Province',
+        name: 'León',
         state_code: 'LE',
       },
       {
         id: 1195,
-        name: 'Lleida Province',
+        name: 'Lleida',
         state_code: 'L',
       },
       {
         id: 1187,
-        name: 'Lugo Province',
+        name: 'Lugo',
         state_code: 'LU',
       },
       {
         id: 1149,
-        name: 'Madrid Province',
+        name: 'Madrid',
         state_code: 'M',
       },
       {
         id: 1188,
-        name: 'Málaga Province',
+        name: 'Málaga',
         state_code: 'MA',
       },
       {
@@ -21089,7 +21089,7 @@ const CountriesState = [
       },
       {
         id: 1145,
-        name: 'Murcia Province',
+        name: 'Murcia',
         state_code: 'MU',
       },
       {
@@ -21099,27 +21099,27 @@ const CountriesState = [
       },
       {
         id: 1173,
-        name: 'Ourense Province',
+        name: 'Ourense',
         state_code: 'OR',
       },
       {
         id: 1157,
-        name: 'Palencia Province',
+        name: 'Palencia',
         state_code: 'P',
       },
       {
         id: 1154,
-        name: 'Pontevedra Province',
+        name: 'Pontevedra',
         state_code: 'PO',
       },
       {
         id: 1160,
-        name: 'Province of Asturias',
+        name: 'Asturias',
         state_code: 'O',
       },
       {
         id: 1189,
-        name: 'Province of Ávila',
+        name: 'Ávila',
         state_code: 'AV',
       },
       {
@@ -21129,47 +21129,47 @@ const CountriesState = [
       },
       {
         id: 1147,
-        name: 'Salamanca Province',
+        name: 'Salamanca',
         state_code: 'SA',
       },
       {
         id: 1198,
-        name: 'Santa Cruz de Tenerife Province',
+        name: 'Santa Cruz de Tenerife',
         state_code: 'TF',
       },
       {
         id: 1192,
-        name: 'Segovia Province',
+        name: 'Segovia',
         state_code: 'SG',
       },
       {
         id: 1155,
-        name: 'Seville Province',
+        name: 'Seville',
         state_code: 'SE',
       },
       {
         id: 1208,
-        name: 'Soria Province',
+        name: 'Soria',
         state_code: 'SO',
       },
       {
         id: 1164,
-        name: 'Tarragona Province',
+        name: 'Tarragona',
         state_code: 'T',
       },
       {
         id: 1182,
-        name: 'Teruel Province',
+        name: 'Teruel',
         state_code: 'TE',
       },
       {
         id: 1165,
-        name: 'Toledo Province',
+        name: 'Toledo',
         state_code: 'TO',
       },
       {
         id: 1152,
-        name: 'Valencia Province',
+        name: 'Valencia',
         state_code: 'V',
       },
       {
@@ -21179,17 +21179,17 @@ const CountriesState = [
       },
       {
         id: 1183,
-        name: 'Valladolid Province',
+        name: 'Valladolid',
         state_code: 'VA',
       },
       {
         id: 1161,
-        name: 'Zamora Province',
+        name: 'Zamora',
         state_code: 'ZA',
       },
       {
         id: 1162,
-        name: 'Zaragoza Province',
+        name: 'Zaragoza',
         state_code: 'Z',
       },
     ],
@@ -21224,7 +21224,7 @@ const CountriesState = [
       },
       {
         id: 2798,
-        name: 'Central Province',
+        name: 'Central',
         state_code: '2',
       },
       {
@@ -21234,7 +21234,7 @@ const CountriesState = [
       },
       {
         id: 2808,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: '5',
       },
       {
@@ -21304,17 +21304,17 @@ const CountriesState = [
       },
       {
         id: 2800,
-        name: 'North Central Province',
+        name: 'North Central',
         state_code: '7',
       },
       {
         id: 2817,
-        name: 'North Western Province',
+        name: 'North Western',
         state_code: '6',
       },
       {
         id: 2813,
-        name: 'Northern Province',
+        name: 'Northern',
         state_code: '4',
       },
       {
@@ -21339,12 +21339,12 @@ const CountriesState = [
       },
       {
         id: 2803,
-        name: 'Sabaragamuwa Province',
+        name: 'Sabaragamuwa',
         state_code: '9',
       },
       {
         id: 2801,
-        name: 'Southern Province',
+        name: 'Southern',
         state_code: '3',
       },
       {
@@ -21354,7 +21354,7 @@ const CountriesState = [
       },
       {
         id: 2811,
-        name: 'Uva Province',
+        name: 'Uva',
         state_code: '8',
       },
       {
@@ -21364,7 +21364,7 @@ const CountriesState = [
       },
       {
         id: 2802,
-        name: 'Western Province',
+        name: 'Western',
         state_code: '1',
       },
     ],
@@ -22038,17 +22038,17 @@ const CountriesState = [
       },
       {
         id: 3399,
-        name: 'Gorno-Badakhshan Autonomous Province',
+        name: 'Gorno-Badakhshan Autonomous',
         state_code: 'GB',
       },
       {
         id: 3398,
-        name: 'Khatlon Province',
+        name: 'Khatlon',
         state_code: 'KT',
       },
       {
         id: 3400,
-        name: 'Sughd Province',
+        name: 'Sughd',
         state_code: 'SU',
       },
     ],
@@ -22907,407 +22907,407 @@ const CountriesState = [
     states: [
       {
         id: 2212,
-        name: 'Adana Province',
+        name: 'Adana',
         state_code: '01',
       },
       {
         id: 2155,
-        name: 'Adıyaman Province',
+        name: 'Adıyaman',
         state_code: '02',
       },
       {
         id: 2179,
-        name: 'Afyonkarahisar Province',
+        name: 'Afyonkarahisar',
         state_code: '03',
       },
       {
         id: 2193,
-        name: 'Ağrı Province',
+        name: 'Ağrı',
         state_code: '04',
       },
       {
         id: 2210,
-        name: 'Aksaray Province',
+        name: 'Aksaray',
         state_code: '68',
       },
       {
         id: 2161,
-        name: 'Amasya Province',
+        name: 'Amasya',
         state_code: '05',
       },
       {
         id: 2217,
-        name: 'Ankara Province',
+        name: 'Ankara',
         state_code: '06',
       },
       {
         id: 2169,
-        name: 'Antalya Province',
+        name: 'Antalya',
         state_code: '07',
       },
       {
         id: 2185,
-        name: 'Ardahan Province',
+        name: 'Ardahan',
         state_code: '75',
       },
       {
         id: 2191,
-        name: 'Artvin Province',
+        name: 'Artvin',
         state_code: '08',
       },
       {
         id: 2187,
-        name: 'Aydın Province',
+        name: 'Aydın',
         state_code: '09',
       },
       {
         id: 2175,
-        name: 'Balıkesir Province',
+        name: 'Balıkesir',
         state_code: '10',
       },
       {
         id: 2148,
-        name: 'Bartın Province',
+        name: 'Bartın',
         state_code: '74',
       },
       {
         id: 2194,
-        name: 'Batman Province',
+        name: 'Batman',
         state_code: '72',
       },
       {
         id: 2177,
-        name: 'Bayburt Province',
+        name: 'Bayburt',
         state_code: '69',
       },
       {
         id: 2221,
-        name: 'Bilecik Province',
+        name: 'Bilecik',
         state_code: '11',
       },
       {
         id: 2153,
-        name: 'Bingöl Province',
+        name: 'Bingöl',
         state_code: '12',
       },
       {
         id: 2215,
-        name: 'Bitlis Province',
+        name: 'Bitlis',
         state_code: '13',
       },
       {
         id: 2172,
-        name: 'Bolu Province',
+        name: 'Bolu',
         state_code: '14',
       },
       {
         id: 2209,
-        name: 'Burdur Province',
+        name: 'Burdur',
         state_code: '15',
       },
       {
         id: 2163,
-        name: 'Bursa Province',
+        name: 'Bursa',
         state_code: '16',
       },
       {
         id: 2216,
-        name: 'Çanakkale Province',
+        name: 'Çanakkale',
         state_code: '17',
       },
       {
         id: 2168,
-        name: 'Çankırı Province',
+        name: 'Çankırı',
         state_code: '18',
       },
       {
         id: 2173,
-        name: 'Çorum Province',
+        name: 'Çorum',
         state_code: '19',
       },
       {
         id: 2157,
-        name: 'Denizli Province',
+        name: 'Denizli',
         state_code: '20',
       },
       {
         id: 2226,
-        name: 'Diyarbakır Province',
+        name: 'Diyarbakır',
         state_code: '21',
       },
       {
         id: 2202,
-        name: 'Düzce Province',
+        name: 'Düzce',
         state_code: '81',
       },
       {
         id: 2151,
-        name: 'Edirne Province',
+        name: 'Edirne',
         state_code: '22',
       },
       {
         id: 2159,
-        name: 'Elazığ Province',
+        name: 'Elazığ',
         state_code: '23',
       },
       {
         id: 2160,
-        name: 'Erzincan Province',
+        name: 'Erzincan',
         state_code: '24',
       },
       {
         id: 2165,
-        name: 'Erzurum Province',
+        name: 'Erzurum',
         state_code: '25',
       },
       {
         id: 2164,
-        name: 'Eskişehir Province',
+        name: 'Eskişehir',
         state_code: '26',
       },
       {
         id: 2203,
-        name: 'Gaziantep Province',
+        name: 'Gaziantep',
         state_code: '27',
       },
       {
         id: 2186,
-        name: 'Giresun Province',
+        name: 'Giresun',
         state_code: '28',
       },
       {
         id: 2204,
-        name: 'Gümüşhane Province',
+        name: 'Gümüşhane',
         state_code: '29',
       },
       {
         id: 2190,
-        name: 'Hakkâri Province',
+        name: 'Hakkâri',
         state_code: '30',
       },
       {
         id: 2211,
-        name: 'Hatay Province',
+        name: 'Hatay',
         state_code: '31',
       },
       {
         id: 2166,
-        name: 'Iğdır Province',
+        name: 'Iğdır',
         state_code: '76',
       },
       {
         id: 2222,
-        name: 'Isparta Province',
+        name: 'Isparta',
         state_code: '32',
       },
       {
         id: 2170,
-        name: 'Istanbul Province',
+        name: 'Istanbul',
         state_code: '34',
       },
       {
         id: 2205,
-        name: 'İzmir Province',
+        name: 'İzmir',
         state_code: '35',
       },
       {
         id: 2227,
-        name: 'Kahramanmaraş Province',
+        name: 'Kahramanmaraş',
         state_code: '46',
       },
       {
         id: 2223,
-        name: 'Karabük Province',
+        name: 'Karabük',
         state_code: '78',
       },
       {
         id: 2184,
-        name: 'Karaman Province',
+        name: 'Karaman',
         state_code: '70',
       },
       {
         id: 2208,
-        name: 'Kars Province',
+        name: 'Kars',
         state_code: '36',
       },
       {
         id: 2197,
-        name: 'Kastamonu Province',
+        name: 'Kastamonu',
         state_code: '37',
       },
       {
         id: 2200,
-        name: 'Kayseri Province',
+        name: 'Kayseri',
         state_code: '38',
       },
       {
         id: 2154,
-        name: 'Kilis Province',
+        name: 'Kilis',
         state_code: '79',
       },
       {
         id: 2178,
-        name: 'Kırıkkale Province',
+        name: 'Kırıkkale',
         state_code: '71',
       },
       {
         id: 2176,
-        name: 'Kırklareli Province',
+        name: 'Kırklareli',
         state_code: '39',
       },
       {
         id: 2180,
-        name: 'Kırşehir Province',
+        name: 'Kırşehir',
         state_code: '40',
       },
       {
         id: 2195,
-        name: 'Kocaeli Province',
+        name: 'Kocaeli',
         state_code: '41',
       },
       {
         id: 2171,
-        name: 'Konya Province',
+        name: 'Konya',
         state_code: '42',
       },
       {
         id: 2149,
-        name: 'Kütahya Province',
+        name: 'Kütahya',
         state_code: '43',
       },
       {
         id: 2158,
-        name: 'Malatya Province',
+        name: 'Malatya',
         state_code: '44',
       },
       {
         id: 2198,
-        name: 'Manisa Province',
+        name: 'Manisa',
         state_code: '45',
       },
       {
         id: 2224,
-        name: 'Mardin Province',
+        name: 'Mardin',
         state_code: '47',
       },
       {
         id: 2156,
-        name: 'Mersin Province',
+        name: 'Mersin',
         state_code: '33',
       },
       {
         id: 2182,
-        name: 'Muğla Province',
+        name: 'Muğla',
         state_code: '48',
       },
       {
         id: 2162,
-        name: 'Muş Province',
+        name: 'Muş',
         state_code: '49',
       },
       {
         id: 2196,
-        name: 'Nevşehir Province',
+        name: 'Nevşehir',
         state_code: '50',
       },
       {
         id: 2189,
-        name: 'Niğde Province',
+        name: 'Niğde',
         state_code: '51',
       },
       {
         id: 2174,
-        name: 'Ordu Province',
+        name: 'Ordu',
         state_code: '52',
       },
       {
         id: 2214,
-        name: 'Osmaniye Province',
+        name: 'Osmaniye',
         state_code: '80',
       },
       {
         id: 2219,
-        name: 'Rize Province',
+        name: 'Rize',
         state_code: '53',
       },
       {
         id: 2150,
-        name: 'Sakarya Province',
+        name: 'Sakarya',
         state_code: '54',
       },
       {
         id: 2220,
-        name: 'Samsun Province',
+        name: 'Samsun',
         state_code: '55',
       },
       {
         id: 2183,
-        name: 'Şanlıurfa Province',
+        name: 'Şanlıurfa',
         state_code: '63',
       },
       {
         id: 2207,
-        name: 'Siirt Province',
+        name: 'Siirt',
         state_code: '56',
       },
       {
         id: 4854,
-        name: 'Sinop Province',
+        name: 'Sinop',
         state_code: '57',
       },
       {
         id: 2181,
-        name: 'Sivas Province',
+        name: 'Sivas',
         state_code: '58',
       },
       {
         id: 2225,
-        name: 'Şırnak Province',
+        name: 'Şırnak',
         state_code: '73',
       },
       {
         id: 2167,
-        name: 'Tekirdağ Province',
+        name: 'Tekirdağ',
         state_code: '59',
       },
       {
         id: 2199,
-        name: 'Tokat Province',
+        name: 'Tokat',
         state_code: '60',
       },
       {
         id: 2206,
-        name: 'Trabzon Province',
+        name: 'Trabzon',
         state_code: '61',
       },
       {
         id: 2192,
-        name: 'Tunceli Province',
+        name: 'Tunceli',
         state_code: '62',
       },
       {
         id: 2201,
-        name: 'Uşak Province',
+        name: 'Uşak',
         state_code: '64',
       },
       {
         id: 2152,
-        name: 'Van Province',
+        name: 'Van',
         state_code: '65',
       },
       {
         id: 2218,
-        name: 'Yalova Province',
+        name: 'Yalova',
         state_code: '77',
       },
       {
         id: 2188,
-        name: 'Yozgat Province',
+        name: 'Yozgat',
         state_code: '66',
       },
       {
         id: 2213,
-        name: 'Zonguldak Province',
+        name: 'Zonguldak',
         state_code: '67',
       },
     ],
@@ -26675,52 +26675,52 @@ const CountriesState = [
     states: [
       {
         id: 1986,
-        name: 'Central Province',
+        name: 'Central',
         state_code: '02',
       },
       {
         id: 1984,
-        name: 'Copperbelt Province',
+        name: 'Copperbelt',
         state_code: '08',
       },
       {
         id: 1991,
-        name: 'Eastern Province',
+        name: 'Eastern',
         state_code: '03',
       },
       {
         id: 1987,
-        name: 'Luapula Province',
+        name: 'Luapula',
         state_code: '04',
       },
       {
         id: 1988,
-        name: 'Lusaka Province',
+        name: 'Lusaka',
         state_code: '09',
       },
       {
         id: 1989,
-        name: 'Muchinga Province',
+        name: 'Muchinga',
         state_code: '10',
       },
       {
         id: 1982,
-        name: 'Northern Province',
+        name: 'Northern',
         state_code: '05',
       },
       {
         id: 1985,
-        name: 'Northwestern Province',
+        name: 'Northwestern',
         state_code: '06',
       },
       {
         id: 1990,
-        name: 'Southern Province',
+        name: 'Southern',
         state_code: '07',
       },
       {
         id: 1983,
-        name: 'Western Province',
+        name: 'Western',
         state_code: '01',
       },
     ],
@@ -26735,12 +26735,12 @@ const CountriesState = [
     states: [
       {
         id: 1956,
-        name: 'Bulawayo Province',
+        name: 'Bulawayo',
         state_code: 'BU',
       },
       {
         id: 1958,
-        name: 'Harare Province',
+        name: 'Harare',
         state_code: 'HA',
       },
       {
@@ -26750,37 +26750,37 @@ const CountriesState = [
       },
       {
         id: 1955,
-        name: 'Mashonaland Central Province',
+        name: 'Mashonaland Central',
         state_code: 'MC',
       },
       {
         id: 1951,
-        name: 'Mashonaland East Province',
+        name: 'Mashonaland East',
         state_code: 'ME',
       },
       {
         id: 1953,
-        name: 'Mashonaland West Province',
+        name: 'Mashonaland West',
         state_code: 'MW',
       },
       {
         id: 1960,
-        name: 'Masvingo Province',
+        name: 'Masvingo',
         state_code: 'MV',
       },
       {
         id: 1954,
-        name: 'Matabeleland North Province',
+        name: 'Matabeleland North',
         state_code: 'MN',
       },
       {
         id: 1952,
-        name: 'Matabeleland South Province',
+        name: 'Matabeleland South',
         state_code: 'MS',
       },
       {
         id: 1957,
-        name: 'Midlands Province',
+        name: 'Midlands',
         state_code: 'MI',
       },
     ],
