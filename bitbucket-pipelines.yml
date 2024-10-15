@@ -62,7 +62,7 @@ pipelines:
                       KUBECTL_COMMAND: "set"
                       KUBECTL_ARGS:
                         - "image"
-                        - "--namespace=dev"
+                        - "--namespace=stg"
                         - "deployment/backend-countries-now"
                         - "backend-countries-now=${IMAGE_URL}:${BITBUCKET_BRANCH}-${BITBUCKET_BUILD_NUMBER}"
                       DEBUG: "true"
